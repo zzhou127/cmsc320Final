@@ -1,0 +1,902 @@
+price,msrp,cpu,cpuNum,ram,storage,gpu,screnSize,Resolution,os,brand,name,weight,rating,ratingLen
+279,279,Intel Celeron,7Y75,4 gigabytes,32 gigabytes,Intel UHD Graphics,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,C731TC42N,2.87 pounds,5,1
+129,129.99,Intel Celeron,3205U,4 gigabytes,16 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,C740-C4PE,,4.4,36
+279,279.99,,9120C,4 gigabytes,32 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.H8TAA.003,,4.1,16
+265,299.99,Intel Celeron,N4020,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.H8VAA.006,2.76 pounds,,
+229,229,Intel Celeron,N3060,4 gigabytes,16 gigabytes,,15.6 inches,1366 x 768 (HD),Chrome OS,Acer,GSRF CB3-532-C8DF,,,
+357,429.99,Intel Celeron,N4120,4 gigabytes,128 gigabytes,Intel UHD Graphics 600,11.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VN2AA.001,3.28 pounds,5,1
+147,199.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,15.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKBAA.002,4.19 pounds,4,37
+578,600.99,AMD Ryzen 7 Microsoft Surface Edition,AMD Ryzen 7 4700U,8 gigabytes,512 gigabytes,,14 inches,1920 x 1080 (Full HD),,Acer,NX.HSEAA.003,,1,1
+532,723.99,Intel 8th Generation Core i5,Intel Core i5-1035G1,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10,Acer,NX.HQ7AA.009,3.31 pounds,,
+248,248.99,MediaTek,MediaTek M8173C,4 gigabytes,64 gigabytes,,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.GL4AA.018,,2,1
+299,499,AMD Ryzen 3 3000 Series,3250C,4 gigabytes,64 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Chrome OS,Acer,CP514-1H-R4HQ,3.42 pounds,4.4,124
+899,899.99,Intel 11th Generation Core i5,i5-1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VP2AA.001,3.09 pounds,,
+359,559,AMD Ryzen 3 3000 Series,3250C,8 gigabytes,64 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Chrome OS,Acer,CP514-1H-R0VX,3.42 pounds,2.3,3
+629,629,AMD Ryzen 5 3000 Series,3500C,8 gigabytes,128 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Chrome OS,Acer,CP514-1HH-R0SS,3.42 pounds,4.8,6
+981,981.99,Intel 10th Generation Core i7,i7,16 gigabytes,512 gigabytes,,13.5 inches,2256 x 1504,,Acer,NX.HQUAA.006,,5,1
+258,258.99,MediaTek,MT8183,4 gigabytes,32 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HUVAA.005,,2,1
+164,214.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKDAA.002,4.6 pounds,1,1
+709,879.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,512 gigabytes,Other,13.5 inches,2256 x 1504,Windows 10,Acer,NX.HQUAA.002,3.8 pounds,,
+299,311.99,AMD 3rd Generation Ryzen 3,3200U,4 gigabytes,128 gigabytes,,15.6 inches,1920 x 1080 (Full HD),,Acer,NX.HG8AA.001,,5,1
+149,208.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKFAA.005,3.6 pounds,,
+238,247.99,MediaTek,MT8183,4 gigabytes,64 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HUVAA.004,,4.5,2
+518,518.99,Intel 10th Generation Core i5,i5,8 gigabytes,256 gigabytes,,15.6 inches,1366 x 768 (HD),,Acer,NX.HS5AA.007,,,
+1099,1099.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VP2AA.002,3.09 pounds,,
+1299,1299.99,Intel 11th Generation Core i7,Intel® Core™ i7-1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,SF514-55TA-74EC,,,
+160,248.99,MediaTek,MT8183,4 gigabytes,64 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HUVAA.003,2.65 pounds,3.8,4
+200,233.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKKAA.005,2.65 pounds,5,1
+909,909.99,Intel 10th Generation Core i5,Not provided,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10,Acer,NX.HQUAA.005,2.65 pounds,2.5,2
+228,228.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKGAA.001,2.43 pounds,,
+484,627.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Acer,NX.HQWAA.004,2.65 pounds,,
+2399,2399.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3080,16 inches,2560 x 1600,Windows 10 Home,Acer,PT516-51s-71Q2,5.29 pounds,4,2
+499,499,Intel Pentium,N6000,8 gigabytes,64 gigabytes,Intel UHD Graphics,17.3 inches,1920 x 1080 (Full HD),Chrome OS,Acer,CB317-1HT-P5PF,4.85 pounds,4.3,52
+211,249,MediaTek,MT8183C,4 gigabytes,32 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,CB311-11H-K04N,2.2 pounds,4.5,615
+999,999.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VP4AA.001,3.09 pounds,,
+679,679.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.VPKAA.002,3.53 pounds,,
+153,207.99,AMD A-Series A4,9120C,4 gigabytes,64 gigabytes,AMD Radeon,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.A2NAA.003,3.31 pounds,,
+259,259.99,Intel Celeron,N4000,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.HKDAA.005,3.75 pounds,,
+1035,1035.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.A6SAA.003,2.31 pounds,,
+653,653.99,Intel 11th Generation Core i5,1135G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.A2EAA.00B,4.19 pounds,1,2
+192,239.99,Intel Celeron,N4000,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKEAA.003,3.75 pounds,,
+578,725.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.A5UAA.006,2.65 pounds,,
+171,311.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.HKCAA.008,3.59 pounds,5,3
+1035,1035.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.A6SAA.001,2.31 pounds,,
+229,239.99,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.HKCAA.003,4.19 pounds,4.5,2
+1035,1035.99,Intel 11th Generation Core i7,11375H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3060,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NH.QD0AA.002,3.75 pounds,,
+799,799.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VPKAA.003,3.53 pounds,,
+899,899.99,Intel 11th Generation Core i7,i7-1165G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Acer,NX.VPKAA.004,3.53 pounds,,
+1099,1099.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Acer,SF514-55TA-77WW,2.31 pounds,3,3
+999,999.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,SF314-511-70TU,2.65 pounds,,
+1314,1604.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3060,16 inches,2560 x 1600,Windows 10 Home,Acer,NH.QE8AA.001,5.4 pounds,,
+200,219.99,Intel Celeron,Celeron N4020,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,12 inches,1366 x 768 (HD),Chrome OS,Acer,NX.A8GAA.001,6 pounds,,
+213,290.99,Intel Celeron,Celeron N4500,4 gigabytes,64 gigabytes,Intel UHD Graphics,17.3 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.AQ2AA.001,5.29 pounds,,
+481,622.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Chrome OS,Acer,NX.AHAAA.001,3.20 pounds,,
+203,259.99,Intel Celeron,Celeron N3450,4 gigabytes,64 gigabytes,Intel HD Graphics 500,14 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.H1LAA.001,3.3 pounds,,
+249,259.99,Intel Celeron,Celeron N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.HKGAA.003,2.43 pounds,,
+299,311.99,Qualcomm Snapdragon,Kryo 468,4 gigabytes,64 gigabytes,Qualcomm Adreno 618,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Acer,NX.HWYAA.001,6 pounds,,
+818,859.99,Intel 10th Generation Core i5,10210U,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3050,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NH.QB0AA.003,5.07 pounds,1,1
+798,840.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Acer,NX.A4KAA.007,2.65 pounds,,
+199,207.99,AMD A-Series A4,9120C,4 gigabytes,64 gigabytes,AMD Radeon,11.6 inches,1366 x 768 (HD),Chrome OS,Acer,NX.A2NAA.004,4.3 pounds,,
+538,559.99,AMD Ryzen 5 5000 Series,Ryzen 5 5500U,8 gigabytes,512 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Acer,NX.A82AA.007,3.97 pounds,,
+899,899.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Acer,SF314-511-7412,2.65 pounds,,
+179,249,Intel Celeron,Intel® Celeron® N4000 Dual-Core,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,15.6 inches,1366 x 768 (HD),Chrome OS,Acer,CB315-3H-C2C3,3.59 pounds,,
+1269,1269.99,Intel 11th Generation Core i5 Evo Platform,Intel® Core TM i5-1135G7,8 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10,ADATA,XENIAXe15TI5G11GXELX-SGCUS,3.6 pounds,,
+1399,1399.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10,ADATA,XENIAXe15TI7G11GXELX-SGCUS,3.6 pounds,4.3,3
+1781,2199.99,Intel 9th Generation Core i7,i7-9750H,16 gigabytes,512 gigabytes,,17.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Alienware,GSRF AWYA17-7640WHT-PUS,,,
+999,999.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGN63LL/A,2.8 pounds,4.8,10691
+1249,1249.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGN73LL/A,2.8 pounds,4.8,2745
+749,1249.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MXK32LL/A,3.1 pounds,4.8,3594
+749,1249.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MXK62LL/A,3.1 pounds,4.8,3594
+1439,1799.99,Intel 10th Generation Core i5,Not provided,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWP42LL/A,,4.8,2739
+1529,1799.99,Intel 10th Generation Core i5,Not provided,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWP72LL/A,,4.8,2739
+1699,1999.99,Intel 10th Generation Core i5,Not provided,16 gigabytes,1000 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWP52LL/A,,4.8,864
+589,589.99,Intel 7th Generation Core i5,7360U,8 gigabytes,128 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MPXR2LL/A,3.02 pounds,3,2
+429,429.99,Intel 5th Generation Core i5,5250U,8 gigabytes,128 gigabytes,Intel HD Graphics 6000,13.3 inches,1440 x 900 (WXGA+),Mac OS,Apple,MMGF2LL/A,2.98 pounds,4.3,22
+849,849.99,Intel 7th Generation Core i5,i5-7267U,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MPXX2LL/A,3.02 pounds,,
+2039,2399.99,Intel 9th Generation Core i7,Not provided,16 gigabytes,512 gigabytes,AMD Radeon Pro 5300M,16 inches,3072 x 1920 (Retina),macOS Catalina,Apple,MVVJ2LL/A,4.3 pounds,4.8,3206
+2379,2799.99,Intel 9th Generation Core i9,Not provided,16 gigabytes,1000 gigabytes,AMD Radeon Pro 5500M,16 inches,3072 x 1920 (Retina),macOS Catalina,Apple,MVVK2LL/A,4.3 pounds,4.8,2685
+2039,2399.99,Intel 9th Generation Core i7,Not provided,16 gigabytes,512 gigabytes,AMD Radeon Pro 5300M,16 inches,3072 x 1920 (Retina),macOS Catalina,Apple,MVVL2LL/A,4.3 pounds,4.8,3206
+2239,2799.99,Intel 9th Generation Core i9,Not provided,16 gigabytes,1000 gigabytes,AMD Radeon Pro 5500M,16 inches,3072 x 1920 (Retina),macOS Catalina,Apple,MVVM2LL/A,4.3 pounds,4.8,2685
+569,949.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWTJ2LL/A,2.8 pounds,4.8,9458
+569,949.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWTK2LL/A,2.8 pounds,4.8,9458
+569,949.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MWTL2LL/A,2.8 pounds,4.8,9458
+749,1249.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,MVH52LL/A,2.8 pounds,4.8,3004
+1099,1099,Intel 10th Generation Core i5,1.1GHz quad-core i5,8 gigabytes,256 gigabytes,,13.3 inches,2560 x 1600,Mac OS,Apple,Z0YJ0002F,,,
+1299,1299,Intel 10th Generation Core i5,1.1GHz quad-core i5,16 gigabytes,256 gigabytes,,13.3 inches,2560 x 1600,Mac OS,Apple,Z0YJ00030,,,
+999,999.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGN93LL/A,2.8 pounds,4.8,10691
+1249,1249.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGNA3LL/A,2.8 pounds,4.8,2745
+999,999.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGND3LL/A,2.8 pounds,4.8,10691
+1249,1249.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MGNE3LL/A,2.8 pounds,4.8,2745
+1149,1299.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MYD82LL/A,2.8 pounds,4.8,5521
+1149,1299.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Other,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MYDA2LL/A,2.8 pounds,4.8,5521
+1299,1499.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Other,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MYD92LL/A,2.8 pounds,4.8,2842
+1299,1499.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Other,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,MYDC2LL/A,2.8 pounds,4.8,2842
+1199,1199.99,Intel 8th Generation Core i5,Intel Core i5 (I5-8279U),8 gigabytes,256 gigabytes,,13.3 inches,2560 x 1600,,Apple,5V962LL/A,,,
+1025,1199.99,Intel 8th Generation Core i5,Intel Core i5,8 gigabytes,128 gigabytes,,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MRE82LL/A,,,
+1295,1799.99,Intel 10th Generation Core i5,Intel 10th Generation Core i5,16 gigabytes,512 gigabytes,,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MWP42LL/A,,,
+1999,1999,Apple M1 Pro,Apple M1 Pro,16 gigabytes,512 gigabytes,Apple M1 Pro 14-core,14.2 inches,3024 x 1964,macOS Monterey 12,Apple,MKGP3LL/A,3.5 pounds,4.8,929
+2499,2499,Apple M1 Pro,Apple M1 Pro,16 gigabytes,1000 gigabytes,Apple M1 Pro 16-core,14.2 inches,3024 x 1964,macOS Monterey 12,Apple,MKGQ3LL/A,3.5 pounds,4.9,304
+1999,1999,Apple M1 Pro,Apple M1 Pro,16 gigabytes,512 gigabytes,Apple M1 Pro 14-core,14.2 inches,3024 x 1964,macOS Monterey 12,Apple,MKGR3LL/A,3.5 pounds,4.8,929
+2499,2499,Apple M1 Pro,Apple M1 Pro,16 gigabytes,1000 gigabytes,Apple M1 Pro 16-core,14.2 inches,3024 x 1964,macOS Monterey 12,Apple,MKGT3LL/A,3.5 pounds,4.9,304
+2499,2499,Apple M1 Pro,Apple M1 Pro,16 gigabytes,512 gigabytes,Apple M1 Pro 16-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK183LL/A,4.7 pounds,4.8,429
+2699,2699,Apple M1 Pro,Apple M1 Pro,16 gigabytes,1000 gigabytes,Apple M1 Pro 16-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK193LL/A,4.7 pounds,4.9,393
+3499,3499,Apple M1 Max,Apple M1 Max,32 gigabytes,1000 gigabytes,Apple M1 Max 32-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK1A3LL/A,4.8 pounds,4.8,115
+2499,2499,Apple M1 Pro,Apple M1 Pro,16 gigabytes,512 gigabytes,Apple M1 Pro 16-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK1E3LL/A,4.7 pounds,4.8,429
+2699,2699,Apple M1 Pro,Apple M1 Pro,16 gigabytes,1000 gigabytes,Apple M1 Pro 16-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK1F3LL/A,4.7 pounds,4.9,393
+3499,3499,Apple M1 Max,Apple M1 Max,32 gigabytes,1000 gigabytes,Apple M1 Max 32-core,16.2 inches,3456 x 2234,macOS Monterey 12,Apple,MK1H3LL/A,4.8 pounds,4.8,115
+899,899.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,128 gigabytes,Intel Iris Plus Graphics,13 inches,2560 x 1600 (Retina),Mac OS,Apple,MUHQ2LL/A,3.02 pounds,3,2
+249,249.99,Intel 2nd Generation Core i5,"Intel Mobile Core i5 ""Sandy Bridge"" (2 Cores)",4 gigabytes,320 gigabytes,Intel HD Graphics 3000,13.3 inches,1280 x 800 (WXGA),,Apple,A1278,,3.4,7
+499,499.99,Intel Core m5,Intel Mobile M (M-5Y31) processor (2 Cores),8 gigabytes,256 gigabytes,Intel HD Graphics 5300,12 inches,2304 x 1440,Mac OS,Apple,A1534,,3.7,6
+329,329.99,Intel 3rd Generation Core i5,3210M,4 gigabytes,500 gigabytes,Intel HD Graphics 4000,13.3 inches,1280 x 800 (WXGA),Mac OS,Apple,A1278,4 pounds,3.9,20
+399,399.99,Intel 3rd Generation Core i5,Not provided,4 gigabytes,128 gigabytes,Intel HD Graphics 4000,13.3 inches,1400 x 900 (WXGA+),Mac OS,Apple,A1466,2.96 pounds,3.4,8
+329,329.99,Intel 2nd Generation Core i5,"Intel Mobile Core i5 ""Sandy Bridge"" (2 Cores)",4 gigabytes,500 gigabytes,Intel HD Graphics 3000,13.3 inches,1280 x 800 (WXGA),,Apple,A1278,,2,4
+429,429.99,Intel 4th Generation Core i5,Intel Core i5 Dual-Core,4 gigabytes,256 gigabytes,Intel HD Graphics 5000,13.3 inches,1400 x 900 (WXGA+),Mac OS,Apple,A1466,,,
+549,549.99,Intel 4th Generation Core i7,Not provided,8 gigabytes,256 gigabytes,Intel Iris Pro Graphics 5200,15.4 inches,2880 x 1800,Mac OS,Apple,A1398,4.46 pounds,3.2,5
+329,329.99,Intel 2nd Generation Core i7,Not provided,4 gigabytes,750 gigabytes,Intel HD Graphics 3000,13.3 inches,1280 x 800 (WXGA),,Apple,A1278,,2.8,4
+1199,1199.99,Intel 10th Generation Core i5,Not provided,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13 inches,2560 x 1600 (Retina),Mac OS,Apple,MWP42LL/A,3.1 pounds,5,1
+1799,1799.99,Intel 9th Generation Core i7,Not provided,16 gigabytes,512 gigabytes,AMD Radeon Pro 5300M,16 inches,3072 x 1920 (Retina),macOS 10.15,Apple,MVVL2LL/A,4.6 pounds,5,1
+399,399.99,Intel 4th Generation Core i5,"Intel Mobile Core i5 ""Haswell"" (2 Cores)",4 gigabytes,128 gigabytes,Intel Iris Graphics 5100,13.3 inches,2560 x 1600,Mac OS,Apple,A1502,,3,3
+1259,1799.99,Intel 8th Generation Core i5,Intel Core i5,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MUQV2LL/A,,,
+1009,1299.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVH22LL/A,2.8 pounds,,
+999,1299.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVH42LL/A,2.8 pounds,,
+999,1499.99,Intel 10th Generation Core i5,Not provided,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVH52LL/A,2.8 pounds,,
+1144,1699.99,Intel 8th Generation Core i5,Not provided,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVH62LL/A,2.75 pounds,,
+1699,1699.99,Intel 8th Generation Core i5,Intel 8th Generation Core i5,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVH82LL/A,,,
+834,1099.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGN93LL/A,2.8 pounds,,
+1044,1099.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGNA3LL/A,2.8 pounds,,
+834,1099.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGND3LL/A,2.8 pounds,,
+1044,1099.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGNE3LL/A,2.8 pounds,,
+1044,1799.99,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGN73LL/A,2.8 pounds,,
+794,1099.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MWTJ2LL/A,2.8 pounds,,
+794,1299.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MWTK2LL/A,2.8 pounds,,
+794,1499.99,Intel 10th Generation Core i3,Intel 10th Generation Core i3,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MWTL2LL/A,2.8 pounds,,
+834,999.99,Apple M1,Apple M1,8 gigabytes,256 gigabytes,Apple M1,13.3 inches,2560 x 1600 (Retina),macOS Big Sur 11.0,Apple,GSRF MGN63LL/A,2.8 pounds,,
+566,899.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,128 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVFH2LL/A,2.75 pounds,,
+598,949.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVFJ2LL/A,2.75 pounds,,
+566,899.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,128 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVFK2LL/A,2.75 pounds,,
+598,949.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVFL2LL/A,2.75 pounds,,
+566,899.99,Intel 8th Generation Core i5,Not provided,8 gigabytes,128 gigabytes,Intel Iris Plus Graphics 645,13.3 inches,2560 x 1600 (Retina),Mac OS,Apple,GSRF MVFM2LL/A,2.75 pounds,,
+499,499.99,Intel Core m3,Dual-Core 1.1 GHz (w/ Turbo Boost up to 2.2 GHz),8 gigabytes,256 gigabytes,Intel HD Graphics 515,12 inches,2304 x 1440,Mac OS,Apple,A1534,2.03 pounds,5,1
+1499,1499,Apple M1,Apple M1,16 gigabytes,1024 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600,Mac OS,Apple,Z124000FM,2.8 pounds,,
+1649,1649,Apple M1,Apple M1,16 gigabytes,1024 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600,Mac OS,Apple,Z125000DM,2.8 pounds,,
+1699,1699,Apple M1,Apple M1,16 gigabytes,512 gigabytes,Apple M1,13.3 inches,2560 x 1600,Mac OS,Apple,Z11B000EM,3 pounds,,
+1449,1449,Apple M1,Apple M1,16 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600,Mac OS,Apple,Z125000DL,2.8 pounds,,
+1899,1899,Apple M1,Apple M1,16 gigabytes,1000 gigabytes,Apple M1,13.3 inches,2560 x 1600,Mac OS,Apple,Z11B000EN,3 pounds,,
+1199,1199,Apple M1,Apple M1,8 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600,Mac OS,Apple,Z124000F2,2.8 pounds,,
+1399,1399,Apple M1,Apple M1,16 gigabytes,512 gigabytes,Apple M1 8-core,13.3 inches,2560 x 1600,Mac OS,Apple,Z124000FL,2.8 pounds,,
+1699,1699,Apple M1,Apple M1,16 gigabytes,512 gigabytes,Apple M1,13.3 inches,2560 x 1600,Mac OS,Apple,Z11D000GJ,3 pounds,,
+2299,2299,Apple M1,Apple M1,16 gigabytes,2048 gigabytes,Apple M1,13.3 inches,2560 x 1600,Mac OS,Apple,Z11B000EP,3 pounds,,
+199,249.99,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 500,11.6 inches,1366 x 768 (HD),Chrome OS,ASUS,C223NADH02RD,2.2 pounds,4.2,64
+239,269.99,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 500,15.6 inches,1366 x 768 (HD),Chrome OS,ASUS,C523NADH02,3.11 pounds,3.8,30
+199,249.99,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 500,11.6 inches,1366 x 768 (HD),Chrome OS,ASUS,C223NA-DH02,2.2 pounds,4.2,64
+469,569.99,Intel Core m3,8100Y,4 gigabytes,64 gigabytes,Intel UHD Graphics 615,14 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,C434TA-DSM4T,3.2 pounds,4.4,23
+524,699.99,AMD Ryzen 5 3000 Series,3500U,8 gigabytes,256 gigabytes,AMD Radeon Vega 8,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,Q406DA-BR5T6,3.53 pounds,4.4,660
+934,1099.99,AMD Ryzen 7 4000 Series,4800HS,8 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650,14 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,GA401IH-BR7N2BL,3.64 pounds,4.5,357
+594,699.99,AMD Ryzen 5 4000 Series,4500U,8 gigabytes,256 gigabytes,NVIDIA GeForce MX350,14 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,Q407IQ-BR5N4,,4.3,1048
+1749,1749.99,Intel 8th Generation Core i7,i7-8750H,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1050,15.6 inches,3840 x 2160 (4K),Windows 10 Home,ASUS,GSRF UX580GD-BI7T5,4.14 pounds,5,1
+799,799.99,Intel 10th Generation Core i3,10110U,8 gigabytes,128 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,C436FADS388T,2.6 pounds,1,1
+971,1199.99,AMD 2nd Generation Ryzen 7,3750H,16 gigabytes,512 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,GSRF GA502DU-BR7N6,,4.6,5
+940,1099.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,256 gigabytes,,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,GSRF Q326FA-BI7T13,,,
+129,269,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Other,14 inches,1366 x 768 (HD),Chrome OS,ASUS,C423NA-BCLN5,2.6 pounds,4.4,946
+239,299.99,Intel Celeron,N4020,4 gigabytes,128 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home,ASUS,E410MA-202.BLUE,2.87 pounds,4.3,601
+849,849.99,AMD Ryzen 7 4000 Series,4700U,8 gigabytes,256 gigabytes,NVIDIA GeForce MX350,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,Q507IQ-202.BL,4.19 pounds,4.5,300
+1499,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,NVIDIA GeForce GTX 1650 Ti,15.6 inches,3840 x 2160 (4K),Windows 11 Home,ASUS,Q538EI-202.BL/Q538EI-202.BL-11,4.19 pounds,4.5,395
+1199,1199.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,Q528EH-202.BL -11,4.19 pounds,4.6,497
+1599,1699.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B9450CEAXH75,2.2 pounds,4.8,6
+1899,1999.99,Intel 11th Generation Core i7 Evo Platform,1165G7,32 gigabytes,2000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B9450CEAXH77,2.2 pounds,4,5
+1699,1699.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Plus Graphics,13.9 inches,3300 x 2200,Windows 10 Pro,ASUS,UX393EAXB77T,2.98 pounds,4.2,5
+949,949.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,512.0 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,UX363EADH51T,2.87 pounds,4.8,5
+684,729.99,Intel 11th Generation Core i5,i5-1135G7,8 gigabytes,512.0 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S533EADH51RD,,4.5,27
+729,729.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512.0 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S433EADH51WH,3.1 pounds,4.3,7
+729,729.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S533EADH51,3.97 pounds,4.5,27
+909,909.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512.0 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S533EADH74WH,3.97 pounds,4.5,20
+684,729.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512.0 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S433EADH51,3.1 pounds,4.3,7
+705,729.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S533EADH51WH,3.97 pounds,4.5,27
+684,729.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S533EADH51GN,3.97 pounds,4.5,27
+399,429.99,AMD Ryzen 3 3000 Series,AMD Ryzen 3 3250U,8 gigabytes,256 gigabytes,AMD Radeon Vega 3,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,F512DARH36,3.7 pounds,4.5,39
+899,899.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,512 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,UX363JADB51T,2.87 pounds,1,1
+333,349.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,ASUS,J401MADB02,3.3 pounds,4,25
+899,969.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,UX425EAEH71,2.58 pounds,4.3,12
+99,219,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel UHD Graphics,11.6 inches,1366 x 768 (HD),Chrome OS,ASUS,CX22NA-211.BB01,2.2 pounds,4.3,778
+569,569,Intel 11th Generation Core i3,1115G4,8 gigabytes,128 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,C536EA-BI3T3,4.17 pounds,4.4,453
+699,699.99,Intel 10th Generation Core i7,I7-1065G7,8 gigabytes,1256 gigabytes,Intel HD Graphics 6000,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,X512JA-211.VBGB,3.75 pounds,4.4,188
+399,649.99,Intel 10th Generation Core i3,i3-10110U,8 gigabytes,128 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,P2451FA-XH33,3.35 pounds,,
+949,949.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S435EABH71GR,2.87 pounds,5,5
+718,718.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,1000 gigabytes,AMD Radeon,16 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S513UADS74,3.97 pounds,4.5,2
+609,609.99,AMD Ryzen 5 5000 Series,AMD Ryzen 5 5500U,8 gigabytes,512 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,S513UADS51,,4.3,4
+519,719.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,NVIDIA GeForce MX450,14 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,Q408UG-211.BL,2.91 pounds,4.4,380
+1649,1649.99,AMD Ryzen 9 5000 Series,5900HX,16 gigabytes,512 gigabytes,AMD Radeon RX 6800M,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,G513QY-212.SG15,5.29 pounds,4,601
+749,799.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,TM420UADS71T,3.31 pounds,4.3,6
+249,299.99,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 500,14 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,C423NADB42F,2.95 pounds,,
+699,729.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,TM420UADS52T,3.31 pounds,2.3,3
+279,329.99,ARM,Cortex A73,4 gigabytes,32 gigabytes,Other,12 inches,1366 x 768 (HD),Chrome OS,ASUS,CM3200FVADS42T,2.51 pounds,4.2,5
+1999,1999.99,AMD Ryzen 9 5000 Series,5900HS,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,14 inches,2560 x 1440 (QHD),Windows 10,ASUS,GA401QMXS98QWH,8 pounds,4.5,8
+229,229.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel HD Graphics 5500,14 inches,1600 x 768 (HD),Windows 11 Home,ASUS,E410MA-211.NCR-BLUE-11,,3.8,32
+399,449.99,Intel 10th Generation Core i3,1005G1,8 gigabytes,256 gigabytes,Intel HD Graphics 5000,15.6 inches,1600 x 768 (HD),Windows 11 Home in S Mode,ASUS,X515JA-212.V15BB-11,3.97 pounds,4.5,551
+229,229.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel HD Graphics 5000,14 inches,1600 x 768 (HD),Windows 11 Home,ASUS,E410MA-211.NCR-PINK-11,,3.8,32
+499,699.99,Intel 10th Generation Core i5,I5-1035G1,12 gigabytes,1012 gigabytes,Intel HD Graphics 5000,17.3 inches,1600 x 900 (HD+),Windows 11 Home in S Mode,ASUS,X712JA-212.V17WN-11,,3.9,353
+259,259.99,Intel Celeron,N4020,4 gigabytes,128 gigabytes,Intel HD Graphics 5000,14 inches,1600 x 768 (HD),Windows 11 Home,ASUS,R410MA-212.BK128-11,,4.3,217
+229,229.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel HD Graphics 5000,14 inches,1600 x 768 (HD),Windows 11 Home,ASUS,E410MA-212.BNCR-11,,4.4,125
+399,549.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel HD Graphics 5000,15.6 inches,1920 x 1080 (Full HD),Windows 10,ASUS,X515EA-212.V15TB,3.97 pounds,4.4,34
+149,299,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 5000,14 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,C423NA-BCLN6,2.95 pounds,4.4,946
+199,369,Intel Celeron,N4500,4 gigabytes,32 gigabytes,Intel HD Graphics 5000,17.3 inches,1920 x 1080 (Full HD),Chrome OS,ASUS,CXB170CKA-212.BCLN6,5.34 pounds,4.6,326
+829,829.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,UX425EAEH51,,4.3,4
+129,239.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 630,11.6 inches,1600 x 768 (HD),Windows 10 Home in S mode,ASUS,E210MA-212.HCW11,2.31 pounds,4.3,72
+1574,1699.99,Intel 11th Generation Core i7,i7-1165G7,16 gigabytes,1000 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B5302FEA-XH75T,2.6 pounds,,
+1049,1299.99,Intel 11th Generation Core i7,i7-1165G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B1400CEA-XH74,3.2 pounds,4,1
+849,1049.99,Intel 11th Generation Core i5,i5-1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B1400CEA-XH51,3.2 pounds,4,1
+299,369.99,Non-AMD/Intel processor,8183,4 gigabytes,64 gigabytes,Other,10.5 inches,1920 x 1200 (WUXGA),Chrome OS,ASUS,CM3000DVA-DS44T-S,1.12 pounds,3.5,2
+899,999.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,NVIDIA GeForce MX350,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,K513EQ-PB79,3.97 pounds,5,3
+769,769.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,F515EA-DB75,3.97 pounds,3.8,4
+1549,1549.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Other,13.3 inches,3840 x 2160 (4K),Windows 10 Pro,ASUS,UX371EA-XB76T,2.65 pounds,,
+1199,1199.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,90NB0RZ1-M001C0,1.3 pounds,,
+898,949.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,90NB0RZ1-M001B0,1.3 pounds,,
+3099,3099.99,Intel 11th Generation Core i9,Intel Core i9-11900H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3080,15.6 inches,3840 x 2160 (4K),Windows 10 Pro,ASUS,UX582HS-XH99T,1.3 pounds,,
+621,659.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,F515EA-DH55,3.97 pounds,,
+1999,1999.99,AMD Ryzen 9 5000 Series,5900HX,32 gigabytes,1000 gigabytes,Other,16 inches,3840 x 2400,Windows 10 Pro,ASUS,H5600QM-XB96,5.29 pounds,,
+1999,1999.99,Intel 11th Generation Core i7,11800H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,16 inches,3840 x 2400,Windows 10 Pro,ASUS,H7600HM-XB76,5.29 pounds,3.7,3
+849,919.99,Intel 11th Generation Core i5,11300H,8 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650 Max-Q,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,K3500PH-DB51,3.64 pounds,,
+1449,1449.99,AMD Ryzen 7 5000 Series,Ryzen 7 5800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050 Ti,16 inches,3840 x 2400,Windows 10 Home,ASUS,M7600QE-DB74,4.3 pounds,5,1
+1649,1649.99,AMD Ryzen 9 5000 Series,5900HX,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050 Ti,16 inches,3840 x 2400,Windows 10 Pro,ASUS,M7600QE-XB99,4.3 pounds,,
+1399,1399.99,AMD Ryzen 7 5000 Series,5800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3050 Ti,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,UM535QE-XH71T,4.41 pounds,,
+1299,1299.99,Intel 11th Generation Core i7,i7-1195G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,UX482EAR-DB71T,3.46 pounds,4.5,4
+1299,1299.99,Intel 11th Generation Core i7,1195G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,UX482EAR-DH71T,3.46 pounds,4.5,2
+1499,1499.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,1000 gigabytes,NVIDIA GeForce MX450,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,UX482EGR-XB74T,3.57 pounds,4.3,3
+1699,1699.99,Intel 11th Generation Core i7,1195G7,32 gigabytes,1000 gigabytes,NVIDIA GeForce MX450,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,UX482EGR-XB77T,3.57 pounds,5,4
+2499,2799.99,Intel 11th Generation Core i9,i9-11900H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,15.6 inches,3840 x 2160 (4K),Windows 11 Pro,ASUS,UX582HM-XH96T,5.16 pounds,5,1
+899,899.99,AMD Ryzen 7 5000 Series,7 5400U,8 gigabytes,512 gigabytes,AMD Radeon,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,UM325UA-DH71,1.14 pounds,,
+1739,1899.99,Intel 11th Generation Core i7,i7-1165G7,32 gigabytes,1000 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B5302FEA-XH77T,2.87 pounds,,
+719,869.99,AMD Ryzen 7 5000 Series,R7-5700U,8 gigabytes,256 gigabytes,NVIDIA GeForce MX450,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,Q508UG-212.R7TBL,4.19 pounds,4.7,12
+749,749.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1240P Processor,8 gigabytes,256 gigabytes,Other,14 inches,2880 x 1800,Windows 11 Home,ASUS,Q409ZA-EVO.I5256BL,3.06 pounds,4.7,17
+749,749.99,AMD Ryzen 5 5000 Series,5600H,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,UM425QA-EH51,2.87 pounds,,
+999,999.99,AMD Ryzen 7 5000 Series,5800H,16 gigabytes,1000 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,ASUS,UM425QA-EH74,2.87 pounds,,
+1373,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10,ASUS,B5302CEA-XH74,2.64 pounds,,
+919,919.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,UX325EA-EH71,2.51 pounds,5,1
+1012,1099.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B1500CEA-XH53,3.81 pounds,,
+249,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Windows 11 Home,ASUS,L210MA-DS02,2.31 pounds,,
+1499,1499.99,Intel 11th Generation Core i7,i7-11700B,16 gigabytes,1000 gigabytes,Other,23.8 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,E5402WHA-XH706T,15.65 pounds,,
+1499,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 11 Pro,ASUS,UX371EA-XH76T,2.65 pounds,,
+349,349.99,Intel Pentium,Intel Celeron N4500,4 gigabytes,128 gigabytes,Other,14 inches,1360 x 768 (HD),Windows 11 Home in S Mode,ASUS,E410KA-TB.CL4128BK,2.87 pounds,4,1
+229,229.99,Intel Pentium,Intel Celeron N4020,4 gigabytes,64 gigabytes,Other,11.6 inches,1360 x 768 (HD),Windows 11 Home in S Mode,ASUS,E210MA-TB.CL464BK,2.31 pounds,2,1
+249,249.99,Intel Pentium,Intel Celeron N4020,4 gigabytes,64 gigabytes,Other,14 inches,1360 x 768 (HD),Windows 11 Home in S Mode,ASUS,E410MA-TB.CL464BK,2.87 pounds,,
+879,1099.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,ASUS,B1400CEA-XH54,3.2 pounds,,
+1199,1199.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-12700H,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,2880 x 1620 (HD),Windows 11 Home,ASUS,Q529ZA-EVO.I7512BL,3.97 pounds,,
+1399,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-12700H,16 gigabytes,1000 gigabytes,Intel Arc A370M,15.6 inches,2880 x 1620 (HD),Windows 11 Home,ASUS,Q539ZD-EVO.I71TBL,3.97 pounds,,
+419,419.99,Intel Celeron,N4500,4 gigabytes,64 gigabytes,Intel UHD Graphics,11.6 inches,1366 x 768 (HD),Windows 10 Pro,ASUS,BR1100FKA-502YT,3.09 pounds,,
+1099,1099.99,AMD Ryzen 7 5000 Series,5800H,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,ASUS,M3500QC-DS71,3.64 pounds,,
+749,749.99,Intel 11th Generation Core i5,Intel Core i5-11300H CPU,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,2880 x 1800,Windows 11 Home,ASUS,K3400PA-WH55,3.09 pounds,,
+275,289.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,ASUS,L510MA-DS02,3.59 pounds,,
+378,399.99,Intel Pentium,N5030,4 gigabytes,128 gigabytes,Intel UHD Graphics 605,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,ASUS,J401MA-ES21T,3.31 pounds,,
+299,299.99,Intel Atom,Z8350,4 gigabytes,64 gigabytes,Other,11.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,Core Innovations,CLT1164BL,2.3 pounds,,
+349,349.99,Intel Celeron,N3350,3 gigabytes,64 gigabytes,Intel HD Graphics 500,15.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,Core Innovations,CLT1564BL,4.2 pounds,,
+244,244.99,Intel 3rd Generation Core i5,i5-3320M,8 gigabytes,128 gigabytes,,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E5430.8.128.PRO,,2.8,5
+539,539.99,Intel 6th Generation Core i7,i7-6600U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E7470-31412,3.31 pounds,5,1
+419,419.99,Intel 5th Generation Core i5,i5-5200U,8 gigabytes,256 gigabytes,,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E5550-31435,,4.5,2
+499,499.99,Intel 6th Generation Core i5,i5-6300U,8 gigabytes,256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,E5570-31083,,3.3,4
+569,569.99,Intel 6th Generation Core i7,6600U,8 gigabytes,512 gigabytes,,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E7470-31413,,4,1
+409,409.99,Intel 6th Generation Core i5,i5-6300U,8 gigabytes,256 gigabytes,,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E7470-31027,,2,1
+379,379.99,Intel 7th Generation Core i3,i3-7130U,8 gigabytes,1000 gigabytes,,15.6 inches,1366 x 768 (HD),Windows 10 Home,Dell,GSRF I3567-3276BLK-PUS,,,
+659,659.99,Intel 10th Generation Core i7,1065G7,8 gigabytes,1000 gigabytes,Intel Iris Plus Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,I3593-7305BLK-PUS,4.41 pounds,4.2,36
+597,829.99,Intel 8th Generation Core i5,i5-8265U,8 gigabytes,256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,GSRF-I7586-5045SLV-PUS,,1,1
+881,1399.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,13.3 inches,3840 x 2160 (4K),Windows 10 Home,Dell,GSRF-I7390-7100BLK-PUS,3.2 pounds,4.7,3
+679,679.99,Intel 10th Generation Core i7,1065G7,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,I3593-7872BLK-PUS,4.41 pounds,3.9,13
+469,469.99,Intel 6th Generation Core i5,i5-6300U,16 gigabytes,512 gigabytes,,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E7270-32213,,1.7,3
+489,489.99,Intel 6th Generation Core i5,i5-6300U,16 gigabytes,512 gigabytes,,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,E7470-32391,,2.2,6
+959,959.99,Intel 6th Generation Core i7,i7-6820HQ,32 gigabytes,1000 gigabytes,,17.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,PRECISION 7710-32304,,3,5
+679,679.99,Intel 6th Generation Core i7,6820HQ,16 gigabytes,512 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,PRECISION 7510-32297,,4.5,4
+389,389.99,Intel 6th Generation Core i5,6300U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E7270-32438,2.8 pounds,4.4,5
+419,419.99,Intel 6th Generation Core i5,6300U,8 gigabytes,512 gigabytes,,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E5470-32426,,4.4,7
+429,429.99,Intel 6th Generation Core i5,6300U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,E7470-32442,3.33 pounds,5,2
+389,389.99,Intel 6th Generation Core i5,i5-6200U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,E5470-32425,3.68 pounds,1,1
+539,539.99,Intel 6th Generation Core i5,6200U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,E5570-32431,4.61 pounds,3.8,4
+859,859.99,Intel 8th Generation Core i3,i3-8145U,8 gigabytes,128 gigabytes,,13.3 inches,1920 x 1080 (Full HD),,Dell,LATI3310G3VJ1,,,
+679,799.99,AMD Ryzen 5 4000 Series,4500U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7405-A388TUP-PUS,3.75 pounds,4.5,814
+849,999.99,AMD Ryzen 7 4000 Series,4700U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7405-A371TUP-PUS,3.75 pounds,4.4,495
+863,1199.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,256 gigabytes,Intel UHD Graphics,13.3 inches,3840 x 2160 (4K),Windows 10 Home,Dell,GSRF I7386-7007BLK-PUS,,2,3
+779,779.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,I5400-5197GRY-PUS,5.82 pounds,3.7,6
+889,889.99,Intel 10th Generation Core i7,1065G7,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,I5400-7203GRY-PUS,5.82 pounds,4.6,14
+937,969.99,Intel 8th Generation Core i5,8265U,8 gigabytes,256 gigabytes,Intel UHD Graphics,13.3 inches,1366 x 768 (HD),Windows 10 Pro,Dell,CWKRT,3.52 pounds,,
+1059,1059.99,Intel 8th Generation Core i5,8365U,8 gigabytes,256 gigabytes,Intel UHD Graphics 620,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,DJT6M,3.42 pounds,,
+1799,1799.99,Intel 7th Generation Core i7,i7-7Y75,16 gigabytes,512 gigabytes,,13.3 inches,3200 x 1800 (quad HD+),Windows 10 Home,Dell,GSRF XPS9365-7002SLV-PUS,,,
+249,249.99,Intel Celeron,N4020,4 gigabytes,16 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Dell,0JWC5,2.84 pounds,,
+1997,2349.99,Intel 10th Generation Core i7,10750H,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650 Ti,15.6 inches,3840 x 2400,Windows 11 Home,Dell,XPS9500-7040WHT-PUS,4.52 pounds,4.7,73
+1799,1799.99,Intel 10th Generation Core i7,10750H,16 gigabytes,256 gigabytes,NVIDIA GeForce GTX 1650 Ti,15.6 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,XPS9500-7583SLV-PUS,4.52 pounds,4.3,106
+899,899.99,Intel 10th Generation Core i7,1065G7,12 gigabytes,512 gigabytes,Intel Iris Plus Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i5400-7128GRY-PUS,3.39 pounds,4,7
+170,199,Intel Celeron,N3060,4 gigabytes,16 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Dell,GSRF C3181-C871BLK-PUS,,,
+999,999.99,Intel 8th Generation Core i5,8265U,8 gigabytes,128 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,NX30M,3.42 pounds,,
+949,949.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7306-5934SLV-PUS,2.71 pounds,4.3,722
+1379,1379.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,NVIDIA GeForce MX350,17 inches,2560 x 1600,Windows 11 Home,Dell,i7706-7814SLV-PUS,4.94 pounds,4.4,1271
+1079,1079.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 11 Home,Dell,i7706-7821SLV-PUS,4.94 pounds,4.4,387
+1189,1399.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,3840 x 2160 (4K),Windows 11 Home,Dell,i7306-7941BLK-PUS,2.8 pounds,4.3,472
+1199,1199.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7506-7807SLV-PUS,3.93 pounds,4.4,577
+849,999.99,Intel 11th Generation Core i5,1135G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7506-5791SLV-PUS,3.93 pounds,4.4,1273
+1629,1629.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe MAX,15.6 inches,3840 x 2160 (4K),Windows 11 Home,Dell,i7506-7784BLK-PUS,4.21 pounds,3.9,839
+999,999.99,Intel 10th Generation Core i7,10510U,8 gigabytes,512 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7490-7842SLV-PUS,2.41 pounds,4.4,283
+729,729.99,AMD Ryzen 7 3000 Series,3700U,12 gigabytes,512 gigabytes,AMD Radeon Vega 8,15.6 inches,1366 x 768 (HD),Windows 10 Home,Dell,i3505-A443BLK-PUS,4.04 pounds,4.7,22
+1599,1599.99,Intel 11th Generation Core i7 Evo Platform,1165G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,,2.9 pounds,4.5,40
+629,629.99,Intel 6th Generation Core i7,6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,BB5-32869,3.32 pounds,4.1,7
+769,769.99,Intel 8th Generation Core i5,8350U,16 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,BB5-32732,2.4 pounds,5,1
+429,429.99,Intel 6th Generation Core i5,6300U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,12.5 inches,1280 x 720,Windows 10 Pro,Dell,BB5-32867,2.8 pounds,4.3,3
+578,578.99,Intel 6th Generation Core i5,6300U,16 gigabytes,512 gigabytes,Intel HD Graphics 520,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,BB5-32865,4.19 pounds,3,8
+469,469.99,Intel 6th Generation Core i5,6300U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,BB5-32868,3.32 pounds,,
+469,469.99,Intel 6th Generation Core i5,6300U,16 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,BB5-31852,3.68 pounds,5,2
+549,549.99,Intel 6th Generation Core i5,6300U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,BB5-32866,4.61 pounds,5,1
+450,529.99,AMD Ryzen 5 3000 Series,3450U,8 gigabytes,256 gigabytes,AMD Radeon Vega 8,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,Dell,i3505-A542BLK-PUS,4.04 pounds,4.5,635
+509,599.99,Intel 10th Generation Core i5,1035G1,12 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,Dell,i3501-5580BLK-PUS,3.93 pounds,4.6,459
+1859,1859.99,Intel 11th Generation Core i5,Processor Model Number - 1145G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,2T9RC,3.09 pounds,,
+1949,1949.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,C7JXK,2.91 pounds,,
+1671,1819.99,Intel 11th Generation Core i7,1185G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,V1YFV,3.09 pounds,5,1
+1289,1289.99,Intel 11th Generation Core i5,Processor Model Number - 1145G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,293RP,3.09 pounds,,
+2069,2069.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,1V918,2.69 pounds,,
+1959,1959.99,Intel 11th Generation Core i5,i5-1145G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,JKKHM,3 pounds,,
+1789,1789.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,XVW8Y,2.69 pounds,,
+1499,1579.99,Intel 11th Generation Core i5,Processor Model Number - 1145G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,8RDC4,3.09 pounds,,
+1929,1929.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,DY0HX,3.09 pounds,3,1
+2104,2119.99,Intel 11th Generation Core i7,i7-1185G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,77TH8,2.89 pounds,,
+2069,2069.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,D8NF4,2.69 pounds,,
+555,555.99,Intel 7th Generation Core i5,7300U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,5490,3.52 pounds,4.2,5
+629,629.99,Intel 6th Generation Core i7,6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7480,3.0 pounds,4.8,14
+399,399.99,Intel 6th Generation Core i5,6200U,8 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5480,3.52 pounds,5,3
+649,649.99,Intel 8th Generation Core i7,8650U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7390,2.58 pounds,5,2
+679,679.99,Intel 6th Generation Core i7,6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 530,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,E5570,4.61 pounds,,
+599,599.99,Intel 8th Generation Core i7,8650U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Dell,7290,3.09 pounds,5,3
+689,689.99,Intel 8th Generation Core i5,i5-8250U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7490,3.9 pounds,,
+579,579.99,Intel 6th Generation Core i7,i7-6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Dell,7280,2.6 pounds,5,2
+389,389.99,Intel 6th Generation Core i5,6200U,8 gigabytes,512 gigabytes,Intel HD Graphics 520,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Dell,7280,2.6 pounds,5,1
+839,839.99,Intel 8th Generation Core i7,i7-8650U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7490,3.9 pounds,5,1
+509,509.99,Intel 6th Generation Core i5,6300U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7480,3.0 pounds,3,1
+469,469.99,Intel 6th Generation Core i5,i5-6440HQ,16 gigabytes,512 gigabytes,Intel HD Graphics 530,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5480,3.52 pounds,4.2,9
+499,499.99,Intel 7th Generation Core i5,7300U,8 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,5490,3.52 pounds,,
+1049,1049.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i5410-7026SLV-PUS,3.64 pounds,4.6,288
+599,849.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i5410-5149SLV-PUS,,4.6,276
+849,999.99,AMD Ryzen 7 5000 Series,5700U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7415-A920BLU-PUS,3.31 pounds,4.6,410
+599,799.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,i7415-A906BLU-PUS,3.31 pounds,4.6,675
+1819,1819.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,WTJW5,2.65 pounds,,
+1599,1899.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3050 Ti,15.6 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,XPS9510-7982SLV-PUS,4.52 pounds,4.4,213
+2099,2399.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050 Ti,15.6 inches,3456 x 2160,Windows 11 Home,Dell,XPS9510-7309WHT-PUS,4.52 pounds,4.3,185
+2599,2599.99,Intel 11th Generation Core i9,11900H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050 Ti,15.6 inches,3456 x 2160,Windows 11 Home,Dell,XPS9510-9019SLV-PUS,4.52 pounds,4.3,19
+494,549.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,Dell,i5406-3661SLV-PUS,3.58 pounds,4.3,99
+639,639.99,Intel 11th Generation Core i3,i3-1115G4,4 gigabytes,500 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,XK86T,3.95 pounds,1,1
+939,939.99,Intel 11th Generation Core i5,1145G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,P1C3F,3.35 pounds,5,1
+709,709.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,500 gigabytes,Other,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,G5PFR,3.35 pounds,,
+759,759.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,500 gigabytes,Other,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,51RYJ,3.95 pounds,1.5,2
+859,859.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,Y2YWR,3.35 pounds,4.7,3
+889,889.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,6T5NY,3.95 pounds,5,1
+2949,2949.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,17 inches,3840 x 2400,Windows 11 Home,Dell,XPS9710-7484SLV-PUS,5.53 pounds,4.7,45
+899,899.99,Intel 10th Generation Core i5,1155G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i5410-5149SLV-PUS,,,
+1099,1099.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i5410-7026SLV-PUS,,,
+424,499.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,Dell,i3501-3692BLK-PUS,5.07 pounds,4.4,230
+3409,3409.99,Intel 11th Generation Core i7,11850H,32 gigabytes,512 gigabytes,Other,17.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,GKDVJ,6.64 pounds,5,1
+529,529.99,Intel Pentium,N6000,4 gigabytes,128 gigabytes,Intel UHD Graphics,11.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,CFY0V,2.95 pounds,,
+2299,2299.99,Intel 11th Generation Core i5,11500H,16 gigabytes,512 gigabytes,Intel UHD Graphics,17 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Dell,284MJ,5.58 pounds,,
+2949,2949.99,Intel 11th Generation Core i7,11850H,32 gigabytes,512 gigabytes,NVIDIA RTX A2000,17 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Dell,F7KVC,5.58 pounds,3,2
+2999,2999.99,Intel 11th Generation Core i7,11850H,32 gigabytes,512 gigabytes,NVIDIA RTX A3000,17 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Dell,KJ37C,5.58 pounds,,
+1999,1999.99,Intel 11th Generation Core i5,11500H,8 gigabytes,256 gigabytes,Intel UHD Graphics,17.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,D5W90,6.64 pounds,,
+244,244.99,Intel Celeron,N4020,4 gigabytes,16 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Dell,5783K,2.84 pounds,1,2
+3999,3999.99,Intel 11th Generation Core i7,11850H,64 gigabytes,512 gigabytes,NVIDIA RTX A4000,17.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7JRPT,6.64 pounds,,
+424,424.99,Intel Celeron,N4020,4 gigabytes,32 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Dell,T718V,3.11 pounds,,
+2579,2579.99,Intel 11th Generation Core i7,11850H,16 gigabytes,512 gigabytes,NVIDIA T1200,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,NRP6C,5.4 pounds,,
+1649,1649.99,Intel 11th Generation Core i5,1145G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,G35T6,4.85 pounds,,
+1492,1589.99,Intel 11th Generation Core i5,i5-1135G7,8 gigabytes,256 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,F6R2G,2.91 pounds,,
+1949,1949.99,Intel 11th Generation Core i7,i7-1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,3456 x 2160,Windows 11 Home,Dell,XPS9310-7412WHT-PUS/7439WHT-PU,,,
+254,254.99,Intel Celeron,N4020,4 gigabytes,16 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Dell,VKP06,2.84 pounds,,
+799,799.99,Intel 10th Generation Core i5,10210U,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i7501-5781SLV-PUS,3.86 pounds,4.5,46
+1549,1549.99,Intel 11th Generation Core i5,11400H,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,2DVJM,3.28 pounds,,
+799,799.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i5410-5265SLV-SUS,3.43 pounds,4.5,26
+999,999.99,Intel 11th Generation Core i7,1165G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Dell,i5410-7004SLV-SUS,3.43 pounds,4.4,20
+799,999.99,Intel 11th Generation Core i7,1195G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,BBY-5VGNXFX,3.31 pounds,4.5,2
+849,849.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,BBY-77XVMFX,3.31 pounds,4.7,3
+679,779.99,Intel 11th Generation Core i5,11320H,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,BBY-PNDJ7FX,3.6 pounds,5,2
+1929,1929.99,Intel 11th Generation Core i5,11500H,16 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,H2RHH,3.28 pounds,,
+939,939.99,Intel 10th Generation Core i5,10210U,8.0 gigabytes,256.0 gigabytes,NVIDIA Quadro M1000M,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,4.6 pounds,,
+1099,1099.99,Intel 10th Generation Core i5,10310U,16.0 gigabytes,1000.0 gigabytes,Intel HD Graphics 530,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,3.93 pounds,,
+559,559.99,Intel 7th Generation Core i5,7300U,16.0 gigabytes,512.0 gigabytes,Intel HD Graphics 620,14.0 inches,1366 x 768 (HD),Windows 10 Pro,Dell,7480,3.01 pounds,,
+1059,1059.99,Intel 10th Generation Core i5,10210U,16.0 gigabytes,512.0 gigabytes,Intel HD Graphics 530,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,3.93 pounds,,
+1179,1179.99,Intel 10th Generation Core i5,10310U,32.0 gigabytes,1000.0 gigabytes,Intel HD Graphics 530,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,3.93 pounds,,
+1149,1149.99,Intel 10th Generation Core i5,10310U,32.0 gigabytes,512.0 gigabytes,Intel HD Graphics 530,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,3.93 pounds,,
+609,609.99,Intel 7th Generation Core i5,7300U,16.0 gigabytes,1000.0 gigabytes,Intel HD Graphics 620,14.0 inches,1366 x 768 (HD),Windows 10 Pro,Dell,7480,3.01 pounds,,
+1069,1069.99,Intel 10th Generation Core i5,10210U,8.0 gigabytes,1000.0 gigabytes,Intel HD Graphics 530,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,5510,3.93 pounds,,
+1140,1629.99,Intel 11th Generation Core i7,i7-1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe MAX,15.6 inches,3840 x 2160 (4K),Windows 11 Home,Dell,GSRF i7506-7784BLK-PUS,4.21 pounds,,
+599,799.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Dell,BBY-2N9N1FX,3.43 pounds,5,1
+1949,1949.99,Intel 11th Generation Core i5,i5-1145G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,8XC9J,2.69 pounds,,
+1449,1449.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,NKFWR,3.02 pounds,,
+1699,1699.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,V6C7M,3.51 pounds,,
+1919,1919.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,42CFC,2.7 pounds,,
+489,599.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,Dell,i3511-5174BLK-PUS,3.82 pounds,4.5,51
+1749,1749.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,C6RNK,2.69 pounds,,
+1679,1679.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,DX4G7,3.51 pounds,,
+919,919.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,4R6NG,3.95 pounds,,
+2569,2569.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Other,15 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,MPNKW,3.31 pounds,,
+929,929.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,R216T,3.35 pounds,,
+1909,1909.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,56G7X,3.02 pounds,,
+979,979.99,Intel 11th Generation Core i5,1145G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,VK416,3.95 pounds,,
+799,799.99,AMD Ryzen 5 5000 Series,5625U,8 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7425-A242PBL-PUS,3.61 pounds,,
+999,999.99,AMD Ryzen 7 5000 Series,5825U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7425-A266PBL-PUS,3.61 pounds,,
+859,859.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1366 x 768 (HD),Windows 10 Pro,Dell,YM877,3.95 pounds,,
+1249,1249.99,Intel 12th Generation Core i7,1260P,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,16 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7620-7631SLV-PUS,4.62 pounds,,
+1049,1049.99,Intel 12th Generation Core i7,1255U,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7420-7976SLV-PUS,3.46 pounds,,
+1549,1549.99,Intel 12th Generation Core i7,1260P,16 gigabytes,512 gigabytes,Other,16 inches,3840 x 2400,Windows 11 Home,Dell,i7620-7648GRE-PUS,4.62 pounds,,
+999,999.99,Intel 12th Generation Core i5,1235U,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,16 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7620-5624SLV-PUS,4.62 pounds,,
+849,849.99,Intel 12th Generation Core i5,1235U,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,Dell,i7420-5983SLV-PUS,3.46 pounds,,
+2049,2049.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,23GP9,3.51 pounds,,
+1829,1829.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,RGRW0,3 pounds,,
+1839,1839.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,WHKH9,3.02 pounds,,
+1679,1679.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,WH730,3.37 pounds,,
+2529,2529.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Other,14 inches,2560 x 1600,Windows 10 Pro,Dell,YYK2V,3.09 pounds,,
+1479,1479.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,0G06F,3.51 pounds,,
+1849,1849.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,1H0GR,3.51 pounds,,
+2229,2229.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,59GKT,3.37 pounds,,
+1719,1719.99,Intel 11th Generation Core i5,i5-1145G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,H74N9,3.02 pounds,,
+1949,1949.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Dell,Y84F9,3.09 pounds,,
+1899,1899.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,D3M2G,3.51 pounds,,
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,Y2H99,3.09 pounds,,
+2239,2239.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,256 gigabytes,Other,14 inches,2560 x 1600,Windows 10 Pro,Dell,8PNGF,3.09 pounds,,
+1589,1589.99,Intel 11th Generation Core i5,i5-1145G7,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,3G2CC,3.02 pounds,,
+1849,1849.99,Intel 11th Generation Core i5,i5-1145G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,Y3NXM,3.02 pounds,,
+1419,1419.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,7NC28,3.51 pounds,,
+1089,1089.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Dell,W7NH5,3.95 pounds,,
+889,889.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,14 inches,1366 x 768 (HD),Windows 10 Pro,Dell,JMW1D,3.35 pounds,,
+399,399.99,Intel Pentium,Pentium Silver N5030,8 gigabytes,128 gigabytes,Intel UHD Graphics 605,14.1 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,Geo,GE178,3.11 pounds,3.9,159
+203,239.99,Intel Celeron,N3450,4 gigabytes,64 gigabytes,Intel HD Graphics 500,12.5 inches,1366 x 768 (HD),Windows 10 Home in S mode,Geo,GE163,3.05 pounds,4,495
+809,999,Intel 7th Generation Core i5,7Y57,8 gigabytes,128 gigabytes,,12.3 inches,2400 x 1600,Chrome OS,Google,GSRF GA00122-US,,4.4,17
+649,649,Intel Core m3,8100Y,8 gigabytes,64 gigabytes,Intel UHD Graphics 615,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Google,GA00519-US,2.3 pounds,4.3,483
+849,849,Intel 8th Generation Core i5,8200Y,8 gigabytes,128 gigabytes,Intel UHD Graphics 615,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Google,GA00521-US,2.3 pounds,4.3,45
+999,999,Intel 8th Generation Core i5,8200Y,16 gigabytes,128 gigabytes,Intel UHD Graphics 615,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Google,GA00523-US,2.3 pounds,4.2,26
+584,649,Intel Core m3,8100Y,8 gigabytes,64 gigabytes,Intel UHD Graphics 615,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Google,GSRF GA00519-US,2.3 pounds,4.9,27
+1399,1399,Intel 8th Generation Core i7,i7-8500Y,16 gigabytes,256 gigabytes,Intel UHD Graphics 615,13.3 inches,3840 x 2160 (4K),Chrome OS,Google,GSRF GA00843-US,2.4 pounds,1,1
+399,399.99,Intel 6th Generation Core i5,6300U,8 gigabytes,512 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,640 G2-31212,5.09 pounds,1,2
+699,699.99,Intel 6th Generation Core i7,i7-7600U,16 gigabytes,512 gigabytes,,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G4-32402,,4,5
+409,409.99,Intel 6th Generation Core i5,6300U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840 G3-31676,3.41 pounds,4.6,5
+429,429.99,Intel 6th Generation Core i5,6300U,8 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840 G3-32354,3.41 pounds,4.1,31
+489,489.99,Intel 7th Generation Core i5,i5-7200U,8 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840 G4-32319,3.26 pounds,,
+579,579.99,Intel 6th Generation Core i7,6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840 G3-32230,3.41 pounds,3.8,5
+109,259,Intel Celeron,N3350,4 gigabytes,32 gigabytes,Intel HD Graphics 500,11.6 inches,1366 x 768 (HD),Chrome OS,HP,11A-NB0013DX,2.98 pounds,4.5,2898
+529,529.99,AMD Ryzen 3 3000 Series,3250U,8 gigabytes,256 gigabytes,Other,15.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,15-EF1020NR,3.73 pounds,4.4,29
+495,579.99,Intel 7th Generation Core i5,i5-7200U,8 gigabytes,1000 gigabytes,Intel HD Graphics 620,17.3 inches,1600 x 900 (HD+),Windows 10 Home,HP,GSRF 17-BY0021DX,5.4 pounds,4,1
+229,299.99,AMD A9,A9-9425,4 gigabytes,128 gigabytes,,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,GSRF 14-DK0002DX,,4,1
+319,399,Intel Celeron,N4000,4 gigabytes,32 gigabytes,,14 inches,1366 x 768 (HD),Chrome OS,HP,GSRF HP CHROMEBOOK X36,,,
+1046,1549.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,13.3 inches,3840 x 2160 (4K),Windows 10 Home,HP,GSRF 13-AP0053DX,2.91 pounds,1,1
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0001dx,3.24 pounds,4.4,2855
+1629,1629.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,3840 x 2160 (4K),Windows 11 Home,HP,15-eb1043dx,4.5 pounds,4.5,925
+1729,1729.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,13.5 inches,3000 x 2000,Windows 11 Home,HP,14-ea0023dx,3 pounds,4.5,572
+503,699.99,Intel 8th Generation Core i5,i5-8265U,8 gigabytes,128 gigabytes,Intel UHD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Home,HP,GSRF 14M-DH0003DX,3.42 pounds,5,1
+1619,1999.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,1000 gigabytes,NVIDIA GeForce MX150,15.6 inches,3840 x 2160 (4K),Windows 10 Home,HP,GSRF 15-DF0043DX,4.78 pounds,,
+526,649.99,Intel 8th Generation Core i5,i5-8265U,12 gigabytes,256 gigabytes,,15.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,GSRF 15-DY0013DX,,,
+512,599,Intel 8th Generation Core i3,i3-8130U,8 gigabytes,64 gigabytes,,14 inches,1920 x 1080 (Full HD),Chrome OS,HP,GSRF 14-DA0011DX,,5,1
+1329,1329.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,3840 x 2560 (UHD),Windows 11 Home,HP,13-aw2003dx,2.8 pounds,4.3,259
+233,259.99,Not Applicable,AMD 3020e,4 gigabytes,64 gigabytes,,14 inches,1366 x 768 (HD),,HP,14-FQ0010NR,,4.6,7
+279,299.99,Not Applicable,3020e,4 gigabytes,64 gigabytes,Other,14 inches,1366 x 768 (HD),,HP,14-FQ0040NR,,4.5,13
+269,299.99,Not Applicable,AMD 3020e,4 gigabytes,64 gigabytes,,14 inches,1366 x 768 (HD),,HP,14-FQ0050NR,,4.5,13
+611,969.99,Intel 8th Generation Core i7,i7-8550U,12 gigabytes,256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,HP,GSRF 15M-CN0012DX,,1,1
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,14-dq0005dx,3.2 pounds,4.4,2855
+739,739.99,Intel 7th Generation Core i7,i7-7600U,8 gigabytes,512 gigabytes,Intel HD Graphics 620,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,BB5-32872,2.82 pounds,4,2
+449,449.99,Intel 6th Generation Core i5,6300U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1280 x 720,Windows 10 Pro,HP,BB5-32872,4.3 pounds,4.3,7
+535,629.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,17.3 inches,1600 x 900 (HD+),Windows 10 Home in S mode,HP,17-by4623dx,5.25 pounds,4.4,107
+919,919.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10,HP,13-BA1075NR,2.88 pounds,2.5,2
+2039,2039,Intel 10th Generation Core i7,Intel Core i7,16 gigabytes,512 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),,HP,1C8N1UT#ABA,,,
+705,829.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,14m-dy0023dx,3.35 pounds,4.6,296
+696,819.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15m-eu0013dx,4.1 pounds,4.6,642
+325,449.99,Intel Pentium,Intel Pentium Silver N5030 Processor,4 gigabytes,128 gigabytes,Intel UHD Graphics 605,11.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,11m-ap0023dx,2.6 pounds,4.6,356
+849,999.99,Intel 11th Generation Core i7 Evo Platform,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,13m-bd0033dx,2.92 pounds,4.6,314
+228,269,MediaTek,MediaTek MT8183,4 gigabytes,32 gigabytes,MediaTek Integrated Graphics,11.6 inches,1366 x 768 (HD),Chrome OS,HP,11a-na0060nr,2.36 pounds,4.6,82
+1509,1509.99,Intel 11th Generation Core i5,i5-1135G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,3N8P1UT#ABA,3.72 pounds,,
+409,409,Intel Celeron,N4500,4 gigabytes,32 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Chrome OS,HP,14b-cb0013dx,3.57 pounds,4.5,423
+299,449,Intel Pentium,N6000,4 gigabytes,64 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Chrome OS,HP,14b-cb0023dx,3.57 pounds,4.5,182
+535,629.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,17.3 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,17-cp0013dx,5.25 pounds,4.5,201
+649,949,Intel 10th Generation Core i5,10210U,8 gigabytes,256 gigabytes,Intel UHD Graphics,13.5 inches,1920 x 1280,Chrome OS,HP,13c-ca0013dx,3 pounds,4,14
+389,389.99,Intel 6th Generation Core i5,i5-6200U,8 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,Folio 1040 G3,3.4 pounds,5,1
+619,619.99,Intel 7th Generation Core i5,i5-7300U,16 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.55 pounds,5,1
+529,529.99,Intel 7th Generation Core i5,7300U,16 gigabytes,512 gigabytes,Intel UHD Graphics 620,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840 G4,3.26 pounds,5,1
+529,529.99,Intel 6th Generation Core i5,6300U,16 gigabytes,512 gigabytes,Intel HD Graphics 520,15.6 inches,1366 x 768 (HD),Windows 10 Pro,HP,650 G2,5.1 pounds,,
+409,409.99,Intel 6th Generation Core i5,i5-6200U,8 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,Folio 1040 G3,3.4 pounds,1,1
+220,259,AMD A-Series A4,9120C,4 gigabytes,32 gigabytes,AMD Radeon R3,14 inches,1366 x 768 (HD),Chrome OS,HP,14-db0033dx,3.4 pounds,4.1,35
+499,699,Intel 11th Generation Core i3,1115G4,8 gigabytes,128 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Chrome OS,HP,14c-cc0013dx,3.67 pounds,4.5,257
+1151,1599.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,512 gigabytes,,15.6 inches,3840 x 2160 (4K),Windows 10 Home,HP,GSRF 15-DF0013DX,,,
+1223,1599.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,512 gigabytes,,15.6 inches,3840 x 2160 (4K),Windows 10 Home,HP,GSRF 15-DF0033DX,,,
+319,339.99,Intel Celeron,Celeron N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,14 inches,1920 x 1080 (Full HD),,HP,14A-NA0050NR,,4,1
+424,499.99,Intel 11th Generation Core i3,11th Generation Intel Core i3-1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,HP,15-dw3033dx,3.86 pounds,4.6,867
+989,989.99,AMD Ryzen 5 5000 Series,5600U,16 gigabytes,512 gigabytes,Other,13.3 inches,1920 x 1200 (WUXGA),Windows 10 Home,HP,13-be0013dx,2.2 pounds,3.3,3
+492,579.99,Intel 11th Generation Core i5,11th Generation Intel Core i5-1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,HP,15-dy2093dx,3.75 pounds,4.5,497
+526,619.99,Intel 11th Generation Core i5,11th Generation Intel Core i5-1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,17.3 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,HP,17-by4633dx,5.25 pounds,4.6,428
+329,349.99,AMD Athlon,14A-ND0060NR,4 gigabytes,32 gigabytes,AMD Radeon,14 inches,1366 x 768 (HD),Chrome OS,HP,14A-ND0060NR,2.97 pounds,,
+589,589.99,AMD Athlon Gold 3000 Series,3150U,8 gigabytes,512 gigabytes,AMD Radeon,17.3 inches,1600 x 900 (HD+),Windows 10 Home,HP,17-CP0076NR,4.82 pounds,4.3,30
+1159,1159.99,Intel 11th Generation Core i7,17-CG1010NR,12 gigabytes,1280 gigabytes,Intel Iris Xe Graphics,17.3 inches,1920 x 1080 (Full HD),Windows 10 Home,HP,17-CG1010NR,6.22 pounds,4.5,11
+1849,1849.99,Intel 11th Generation Core i7,i7-1165G7,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,38B50UT#ABA,3.86 pounds,,
+1457,1799.99,Intel 10th Generation Core i7,i7-1065G7,16 gigabytes,1000 gigabytes,Intel Iris Plus Graphics,13.3 inches,3840 x 2160 (4K),Windows 10 Home,HP,GSRF 13-AW0023DX,,,
+719,999.99,Intel 10th Generation Core i7,i7-1065G7,12 gigabytes,512 gigabytes,Intel Iris Plus Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,HP,GSRF 15M-ED0023DX,,,
+314,499.99,Intel 10th Generation Core i3,i3-1005G1,8 gigabytes,128 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,GSRF 14M-DW0013DX,,1,1
+687,859.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,13-bd0063dx,2.92 pounds,4.5,117
+249,599,Qualcomm Snapdragon,Qualcomm® Snapdragon™ 7c Compute Platform,8 gigabytes,64 gigabytes,Other,11 inches,2160 x 1440 (Full HD+),Chrome OS,HP,11-da0013dx,,4.4,214
+249,599,Qualcomm Snapdragon,Qualcomm® Snapdragon™ 7c Compute Platform,8 gigabytes,64 gigabytes,Other,11 inches,2160 x 1440 (Full HD+),Chrome OS,HP,11-da0023dx,,4.4,214
+894,894.99,AMD Ryzen 5 5000 Series,5500U,16 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,HP,15-EE1077nr,4.42 pounds,4,7
+349,449.99,Intel Pentium,Intel Pentium Silver N5030 Processor,4 gigabytes,128 gigabytes,Intel UHD Graphics 605,11.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,11m-ap0033dx,2.66 pounds,4.6,118
+271,319,Intel Celeron,Intel® Celeron® Processor N3350,4 gigabytes,64 gigabytes,Intel HD Graphics 500,14 inches,1920 x 1080 (Full HD),Chrome OS,HP,14-ca064dx,,4.5,386
+314,369.99,Intel Celeron,N4020,4 gigabytes,128 gigabytes,Intel UHD Graphics 600,15.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,15-dw1033dx,3.86 pounds,4.6,310
+424,499.99,AMD Ryzen 3 3000 Series,3250U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1366 x 768 (HD),Windows 11 Home,HP,15-ef1023dx,3.75 pounds,4.6,481
+494,549.99,Intel 11th Generation Core i3,11th Generation Intel Core i3-1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,17.3 inches,1600 x 900 (HD+),Windows 11 Home in S Mode,HP,17-by4013dx,5.25 pounds,4.5,880
+589,589.99,Intel 11th Generation Core i3,11th Generation Intel Core i3-1125G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,14m-dy0113dx,3.33 pounds,4.6,296
+729,829.99,Intel 11th Generation Core i7,11th Generation Intel Core i7-1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,15-dy2073dx,3.75 pounds,4.6,190
+179,239.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,11-ak0013dx,2.37 pounds,4.3,124
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0033dx,3.24 pounds,4.4,716
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0034dx,3.24 pounds,4.4,716
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0032dx,3.24 pounds,4.4,716
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0031dx,3.24 pounds,4.4,716
+212,249.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0035dx,3.24 pounds,4.4,716
+619,819.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15m-eu0033dx,4.11 pounds,4.5,449
+909,909.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15m-es1013dx,4.02 pounds,4.7,322
+749,1049.99,Intel 11th Generation Core i7 Evo Platform,1195G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,13m-bd1033dx,2.87 pounds,4.7,288
+729,1029.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15m-eu0043dx,4.11 pounds,4.7,159
+829,829.99,Intel 11th Generation Core i7,1155G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,14m-dy1023dx,3.33 pounds,4.6,296
+829,829.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,14m-dy1033dx,3.33 pounds,4.6,268
+1479,1729.99,Intel 11th Generation Core i7 Evo Platform,1195G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,13.5 inches,3000 x 2000,Windows 11 Home,HP,14-ea1023dx,2.95 pounds,4.3,167
+1079,1079.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15m-es1023dx,4.02 pounds,4.6,636
+1279,1279.99,Intel 11th Generation Core i7,1195G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,17.3 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,17m-ch1013dx,5.6 pounds,4.7,498
+1599,1599.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15-ep1013dx,2.95 pounds,4.3,21
+429,519.99,Intel 11th Generation Core i3,11th Generation Intel Core i3-1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,15-dw3053dx,3.86 pounds,4.6,117
+458,458.99,Intel 8th Generation Core i5,8350U,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Windows 10 Pro,HP,840G5.i5.8.256.Pro,3.55 pounds,5,2
+318,383.99,Intel 6th Generation Core i5,6300U,8 gigabytes,128 gigabytes,Intel UHD Graphics,12.5 inches,1366 x 768 (HD),Windows 10 Pro,HP,820G3.i5.8.128.Pro,2.78 pounds,2.5,4
+421,421.99,Intel 7th Generation Core i5,7300U,8 gigabytes,128 gigabytes,Intel UHD Graphics,12.5 inches,1366 x 768 (HD),Windows 10 Pro,HP,820G4.i5.8.128.Pro,3.04 pounds,,
+2029,2029.99,Intel 11th Generation Core i7,11390H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050,16 inches,3840 x 2400,Windows 11 Home,HP,16-f0023dx,4.47 pounds,3.6,19
+1629,1629.99,Intel 11th Generation Core i7 Evo Platform,11390H,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,16 inches,3072 x 1920 (Retina),Windows 11 Home,HP,16-f0013dx,4.45 pounds,4.8,114
+1082,1082.99,Intel 11th Generation Core i5,i5-1135G7,16 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,4J215UT#ABA,3.84 pounds,,
+279,279,MediaTek,MediaTek MT8183,4 gigabytes,64 gigabytes,MediaTek Integrated Graphics,11.6 inches,1366 x 768 (HD),Chrome OS,HP,11a-ne0013dx,,4.7,23
+249,329,AMD 3000 Series,3015Ce,4 gigabytes,64 gigabytes,AMD Radeon,14 inches,1366 x 768 (HD),Chrome OS,HP,14a-nb0013dx,2.97 pounds,4.5,37
+439,479.99,AMD Athlon,3050U,4 gigabytes,256 gigabytes,AMD Radeon,17.3 inches,1600 x 900 (HD+),Windows 10 Home in S mode,HP,17-CP0010nr,4.58 pounds,5,1
+869,869.99,Intel 8th Generation Core i5,8350U,32.0 gigabytes,1000.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+759,759.99,Intel 6th Generation Core i7,6600U,32.0 gigabytes,512.0 gigabytes,Intel HD Graphics 520,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G3,3.27 pounds,,
+829,829.99,Intel 8th Generation Core i5,8350U,32.0 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+409,409.99,Intel 7th Generation Core i5,7200U,16.0 gigabytes,256.0 gigabytes,Intel HD Graphics 620,12.5 inches,1366 x 768 (HD),Windows 10 Pro,HP,820 G4,2.78 pounds,,
+939,939.99,Intel 8th Generation Core i7,8550U,32.0 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+849,849.99,Intel 8th Generation Core i7,8550U,16.0 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+629,629.99,Intel 6th Generation Core i7,6600U,16.0 gigabytes,256.0 gigabytes,Intel HD Graphics 520,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G3,3.27 pounds,,
+779,779.99,Intel 8th Generation Core i5,8350U,16.0 gigabytes,1000.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+989,989.99,Intel 8th Generation Core i7,8550U,32.0 gigabytes,1000.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.26 pounds,,
+414,474.99,Intel 7th Generation Core i5,7300U,8 gigabytes,256 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,X360.1030.G2.RB,2.82 pounds,,
+229,369.99,Intel Celeron,Intel Celeron N4120,4 gigabytes,128 gigabytes,Intel UHD Graphics 600,15.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,15-dw1053dx,3.92 pounds,4.5,36
+699,699.99,Intel 11th Generation Core i5,11th Generation Intel Core i5-1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,17.3 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,17-cn0023dx,4.6 pounds,3.7,3
+189,249.99,Intel Celeron,Intel Celeron N4120,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0052dx,3.24 pounds,4.5,82
+189,249.99,Intel Celeron,Intel® Celeron® N4120,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0055dx,3.24 pounds,4.5,82
+189,249.99,Intel Celeron,Intel Celeron N4120,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0051dx,3.24 pounds,4.5,82
+239,239.99,Intel Celeron,Intel Celeron N4120,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,11-ak0053dx,2.37 pounds,5,2
+189,249.99,Intel Celeron,Intel Celeron N4120,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-dq0054dx,3.24 pounds,4.5,82
+1529,1529.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,3V365UT#ABA,2.98 pounds,1,1
+1139,1139.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,4J208UT#ABA,3.04 pounds,,
+1999,1999.99,Intel 12th Generation Core i7 Evo Platform,Intel Evo platform 12th Generation Core i7-1260P,16 gigabytes,1000 gigabytes,Intel Arc A370M,16 inches,3840 x 2400,Windows 11 Home,HP,16-f1023dx,4.45 pounds,,
+1649,1649.99,Intel 12th Generation Core i7 Evo Platform,Intel Evo platform  12th Generation Core i7-12700H,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,16 inches,3072 x 1920 (Retina),Windows 11 Home,HP,16-f1013dx,4.45 pounds,,
+249,429.99,AMD Ryzen 3 3000 Series,3250U,8 gigabytes,128 gigabytes,AMD Radeon,14 inches,1366 x 768 (HD),Windows 11 Home in S Mode,HP,14-fq0033dx,3.24 pounds,5,2
+549,549.99,AMD Ryzen 5 5000 Series,5500U,12 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,15-ef2013dx,3.75 pounds,3.7,7
+799,799.99,Intel 12th Generation Core i5,12th Generation Intel® Core™ i5-1235U,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,14-ek0023dx,3.35 pounds,,
+679,679.99,Intel 8th Generation Core i5,8350U,16.0 gigabytes,256.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.27 pounds,,
+849,849.99,Intel 8th Generation Core i7,8550U,16.0 gigabytes,512.0 gigabytes,Intel UHD Graphics 620,14.0 inches,1920 x 1080 (Full HD),Windows 10 Pro,HP,840 G5,3.27 pounds,,
+563,629.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,17.3 inches,1600 x 900 (HD+),Windows 11 Home,HP,17-CN0056nr,4.84 pounds,,
+579,579.99,AMD Ryzen 3 4000 Series,5300U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,HP,15-EF2010NR,3.75 pounds,,
+599,599.99,Intel Pentium,Pentium Silver N5030,8 gigabytes,512 gigabytes,Intel UHD Graphics 605,17.3 inches,1600 x 900 (HD+),Windows 11 Home,HP,17-CN0076nr,4.84 pounds,4,1
+479,479.99,Intel Pentium Gold,Pentium Gold 7505,4 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 11 Home,HP,15-DY2173nr,3.75 pounds,,
+509,509.99,AMD Ryzen 3 4000 Series,AMD Ryzen 3 5300U,4 gigabytes,256 gigabytes,AMD Radeon,17.3 inches,1600 x 900 (HD+),Windows 11 Home in S Mode,HP,17-CP0020NR,4.58 pounds,,
+834,834.99,AMD Ryzen 5 5000 Series,AMD Ryzen 5 5625U,8 gigabytes,512 gigabytes,AMD Radeon,13.3 inches,1920 x 1200 (WUXGA),Windows 11 Home,HP,13-BE1010NR,2.2 pounds,,
+1099,1099.99,Intel 12th Generation Core i7,Intel Core i7-1260P,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15-ES2076NR,4.02 pounds,,
+289,289.99,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,14-DQ0050NR,0.71 pounds,,
+654,654.99,Intel 12th Generation Core i3,Intel Core i3-1215U,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,HP,15-EG2072NR,0.7 pounds,,
+479,479.99,Intel Pentium Gold,Intel Pentium Gold 7505,4 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 11 Home,HP,15-DY2172NR,0.71 pounds,,
+849,849.99,Intel 12th Generation Core i5,Intel Core i5-1240P,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,2240 x 1400,Windows 11 Home,HP,14-EH0010NR,0.65 pounds,,
+299,299.99,Intel Celeron,Intel Celeron N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,14-DQ0080NR,0.71 pounds,,
+259,259.99,Intel Celeron,Intel Celeron N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,14-DQ0040NR,0.71 pounds,,
+259,259.99,Intel Celeron,Intel Celeron N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,HP,14-DQ0030NR,0.71 pounds,,
+479,479.99,Intel Pentium,Intel Pentium Silver N5030,4 gigabytes,256 gigabytes,Intel UHD Graphics 605,17.3 inches,1600 x 900 (HD+),Windows 11 Home in S Mode,HP,17-CN0030NR,0.78 pounds,,
+279,279.99,Intel Celeron,Intel Apollo Lake N3350,4 gigabytes,1000 gigabytes,Intel HD Graphics 500,13.3 inches,1920 x 1080 (Full HD),Windows 10,Hyundai,HTLF13INC4Z1ESG,2.93 pounds,5,3
+1549,1549.99,Intel 8th Generation Core i7,i7-8550U,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1050,15.6 inches,3840 x 2560 (UHD),Windows 10 Home,Lenovo,GSRF 81CU000CUS,4.17 pounds,,
+349,349,AMD A-Series A4,9120C,4 gigabytes,32 gigabytes,AMD Radeon R3,14 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,,5.6 pounds,,
+379,379.99,Intel 8th Generation Core i3,i3-8130U,4 gigabytes,128 gigabytes,,15.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,Lenovo,GSRF 81F5018EUS,,5,1
+299,299,MediaTek Helio P60T,,4 gigabytes,128 gigabytes,,10.1 inches,1920 x 1200,Chrome OS,Lenovo,ZA6F0016US,15.9 ounces,4.5,2121
+345,345.99,Intel 6th Generation Core i5,6300U,8 gigabytes,256 gigabytes,Intel UHD Graphics,14 inches,1366 x 768 (HD),Windows 10 Pro,Lenovo,T460.I5.8.500.PRO,3 pounds,3.1,11
+326,356.99,Intel 6th Generation Core i5,i5-6300U,8 gigabytes,180 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 7 Professional,Lenovo,T460.I5.8.180SSD.PRO,3 pounds,4,10
+759,759.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,81X30009US,3.97 pounds,3.7,3
+324,324.99,Intel 4th Generation Core i5,i5 - 4300U,8 gigabytes,128 gigabytes,Intel HD Graphics 4400,14 inches,1366 x 768 (HD),Windows 8,Lenovo,T440,,3.3,6
+197,219,AMD A-Series A6,9220C,4 gigabytes,32 gigabytes,AMD Radeon,11.6 inches,1366 x 768 (HD),Chrome OS,Lenovo,82H40000US,,4.4,996
+341,399.99,AMD 2nd Generation Ryzen 3,3200U,8 gigabytes,1000 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,Lenovo,GSRF 81LW005PUS,,3,2
+994,1299.99,Intel 8th Generation Core i7,8550U,12 gigabytes,256 gigabytes,Intel HD Graphics 620,13.9 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,GSRF 81C4000HUS,3.04 pounds,2.3,3
+627,849.99,Intel 8th Generation Core i5,i5-8265U,12 gigabytes,256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,GSRF 81JS005BUS,,,
+1749,1749.99,Intel 11th Generation Core i7 Evo Platform,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,3840 x 2160 (4K),Windows 11 Home,Lenovo,82BG0001US,3.124 pounds,4.1,464
+1079,1079.99,Intel 11th Generation Core i7 Evo Platform,1165G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BH00DLUS/82BH0002US,3.08 pounds,4.6,345
+849,849.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BJ007TUS/82BJ0001US,4.18 pounds,4.6,2047
+1449,1449.99,Intel 11th Generation Core i7 Evo Platform,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BG0090US/82BG000CUS,2.97 pounds,4.2,573
+949,949.99,Intel 11th Generation Core i5 Evo Platform,1135G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BH00DQUS/82BH0006US,3.08 pounds,4.5,1508
+1879,1879.99,Intel 10th Generation Core i7,10750H,16 gigabytes,1000 gigabytes,NVIDIA GeForce GTX 1650 Ti,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82DE002XUS/82DE0009US,4.4 pounds,4.3,301
+1129,1129.99,Intel 11th Generation Core i7 Evo Platform,1165G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BJ0003US/82BJ007SUS,4.026 pounds,4.6,854
+1549,1549,Intel 10th Generation Core i5,i5-10310U,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),,Lenovo,20S60012US,,,
+620,729.99,AMD Ryzen 5 4000 Series,4650U,8 gigabytes,256 gigabytes,AMD Radeon,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82FN003TUS,2.99 pounds,4.5,680
+929,929.99,AMD Ryzen 7 4000 Series,4700U,16 gigabytes,512 gigabytes,AMD Radeon,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82FN0003US,2.99 pounds,4.5,19
+1710,1710.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Other,14 inches,3840 x 2160 (4K),Windows 10,Lenovo,82BG0002US,2.97 pounds,3.1,7
+939,939.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20VE003KUS,6.7 pounds,5,2
+3079,3079,Intel Celeron,i5-L16G7,8 gigabytes,512 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,20RK000NUS,,5,1
+2649,2649,Intel 10th Generation Core i5,L16G7,8 gigabytes,256 gigabytes,Intel UHD Graphics,13 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,20RK000JUS,2 pounds,2,2
+659,659.99,Intel 8th Generation Core i5,8350U,8 gigabytes,512 gigabytes,Intel UHD Graphics 620,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,BB5-32795,3.15 pounds,5,1
+549,549.99,Intel 7th Generation Core i5,7300U,16 gigabytes,512 gigabytes,Intel HD Graphics 620,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,BB5-32877,3.5 pounds,3.5,6
+459,459.99,Intel 6th Generation Core i5,6300U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1366 x 768 (HD),Windows 10 Pro,Lenovo,BB5-32876,3.8 pounds,,
+764,764.99,Intel 10th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20TD003JUS,5.85 pounds,4.4,7
+260,289,MediaTek,MT8183,4 gigabytes,64 gigabytes,Other,11.6 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,82KN0000US,3.08 pounds,4.5,703
+319,319,MediaTek,MT8173c,4 gigabytes,64 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,82KN0001US,3.08 pounds,4.6,669
+809,999.99,Intel 8th Generation Core i5,i5-8250U,8 gigabytes,256 gigabytes,,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,GSRF 20M7S03400,,,
+807,949.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,20VK001QUS,3.16 pounds,4.5,94
+929,929.99,Intel 5th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10,Lenovo,20WE0014US,5.65 pounds,,
+419,419,Intel Pentium,7505,4 gigabytes,32 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,82M70000US,2.97 pounds,4.3,205
+949,949.99,AMD Ryzen 7 5000 Series,5700U,16 gigabytes,512 gigabytes,AMD Radeon,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82ND006QUS/82ND0002US,2.99 pounds,4.4,341
+749,749.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82ND006YUS/82ND0009US,2.99 pounds,4.4,566
+1249,1249.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,20VK001SUS,3.17 pounds,4.7,41
+807,949.99,Intel 10th Generation Core i5,10210U,8 gigabytes,512 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,81TD0078US,4.18 pounds,4.5,112
+635,829.99,Intel 8th Generation Core i5,i5-8250U,8 gigabytes,256 gigabytes,,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,GSRF 81CT0008US,,2,4
+779,779.99,Intel 11th Generation Core i5,Intel Core i5-1135G7,8 gigabytes,256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),,Lenovo,20VE003GUS,,3,1
+1149,1149.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20VK0017US,4.95 pounds,,
+1119,1119.99,Intel 10th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),,Lenovo,20TD001NUS,,4.8,11
+619,619.99,Intel 6th Generation Core i7,6600U,16 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,T460S,3.0 pounds,5,1
+647,647.99,Intel 6th Generation Core i7,6600U,16 gigabytes,512 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,T460S,3.0 pounds,3.5,2
+599,599.99,Intel 6th Generation Core i7,6600U,12 gigabytes,256 gigabytes,Intel HD Graphics 520,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,T460S,3.0 pounds,,
+1849,1849.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Lenovo,20XY002LUS,4.8 pounds,,
+526,619.99,Intel 11th Generation Core i5,1135G7,12 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home in S Mode,Lenovo,82H801DQUS/82H8018SUS,3.74 pounds,4.6,1321
+424,499.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 10 Home in S mode,Lenovo,81X800ECUS,3.75 pounds,4.5,287
+297,349.99,Intel Pentium,Intel Pentium Silver N5030,4 gigabytes,128 gigabytes,Intel UHD Graphics 605,14 inches,1366 x 768 (HD),Windows 10 Home in S mode,Lenovo,81WH004LUS,3.1 pounds,4.5,32
+1989,1989.99,Intel 10th Generation Core i7,1160G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Pro,Lenovo,20QA000RUS,4.2 pounds,,
+929,929.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20VH001KUS,3.06 pounds,5,1
+2019,2019.99,Intel 10th Generation Core i7,1160G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13 inches,2160 x 1440 (Full HD+),Windows 10 Pro,Lenovo,20UN0057US,1.99 pounds,,
+841,879.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20TD003KUS,3.75 pounds,4.2,10
+1599,1599.99,Intel 10th Generation Core i5,1130G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13 inches,2160 x 1440 (Full HD+),Windows 10 Pro,Lenovo,20UN000DUS,1.99 pounds,5,2
+1819,1819,Intel 10th Generation Core i7,1180G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,12.3 inches,1920 x 1280,Windows 10 Pro,Lenovo,20UW000SUS,0.75 pounds,3,1
+1799,1799.99,Intel 10th Generation Core i5,1130G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Pro,Lenovo,20QA000MUS,2.54 pounds,,
+1859,1859.99,Intel 11th Generation Core i5,1145G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Lenovo,20XW004MUS,4.56 pounds,,
+1304,1449.99,Intel 11th Generation Core i7 Evo Platform,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10,Lenovo,GSRF 82BG000CUS,,,
+854,949.99,Intel 11th Generation Core i5 Evo Platform,1135G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Home,Lenovo,GSRF 82BH0006US,,,
+1039,1039.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YG003CUS,3.75 pounds,,
+1699,1699.99,AMD Ryzen 7 5000 Series,5850U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20XK001JUS,5.15 pounds,,
+199,199.99,MediaTek,MT8173C,4 gigabytes,68 gigabytes,MediaTek Integrated Graphics,14 inches,1366 x 768 (HD),Chrome OS,Lenovo,81JW001KUS,4.75 pounds,5,1
+1679,1679.99,Intel 11th Generation Core i5,1145G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20W0008UUS,6.2 pounds,,
+1049,1049.99,Intel 5th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15 inches,1920 x 1080 (Full HD),Windows 10,Lenovo,20X30071US,4.37 pounds,2,1
+1179,1179.99,Intel 5th Generation Core i5,Intel Core i5-1145G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,15 inches,1920 x 1080 (Full HD),Windows 10,Lenovo,20X30077US,4.37 pounds,,
+1009,1009.99,AMD Ryzen 5 4000 Series,AMD Ryzen 5 PRO 5650U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10,Lenovo,20X5004XUS,3.5 pounds,,
+424,499.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 11 Home,Lenovo,81X800ENUS,4.07 pounds,4.5,455
+379,499,Qualcomm Snapdragon,SC7180,8 gigabytes,128 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,82QS001HUS,2.22 pounds,4.3,123
+599,599.99,AMD Ryzen 3 3000 Series,5300U,4 gigabytes,256 gigabytes,AMD Radeon R3,14 inches,1366 x 768 (HD),Windows 10 Pro,Lenovo,82KC004QUS,6 pounds,,
+769,769.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20Y70037US,3.73 pounds,,
+204,379,MediaTek,MT8183,4 gigabytes,32 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Lenovo,82KM0002US,2.64 pounds,4.5,610
+1749,1749.99,Intel 11th Generation Core i7 Evo Platform,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,3840 x 2160 (4K),None,Lenovo,82BG0091US,3.124 pounds,4.4,20
+1149,1149.99,Intel 11th Generation Core i7 Evo Platform,1165G7,12 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BJ007WUS,4.18 pounds,4.7,384
+404,404.99,Intel 6th Generation Core i5,i5-6100U,8 gigabytes,256 gigabytes,Intel UHD Graphics,12.5 inches,1366 x 768 (HD),Windows 10 Pro,Lenovo,Yoga260.i5.8.256.Pro,2.8 pounds,,
+3129,3129.99,Intel 11th Generation Core i7,11850H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3070,16 inches,3840 x 2400,Windows 10 Pro,Lenovo,20Y50011US,,,
+2499,2499.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3060,16 inches,2560 x 1600,Windows 10 Pro,Lenovo,20Y50016US,,,
+1519,1519.99,AMD Ryzen 5 5000 Series,AMD Ryzen 5 PRO 5650U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20XK000LUS,,,
+1279,1279.99,AMD Ryzen 5 5000 Series,AMD Ryzen 5 PRO 5650U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20XK000KUS,3.41 pounds,,
+2229,2229.99,Intel 11th Generation Core i7,Intel Core i7-1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20WM007XUS,3.46 pounds,,
+1989,1989.99,Intel 11th Generation Core i7,Intel Core i7-1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20WM0080US,,,
+1599,1599.99,Intel 11th Generation Core i5,11400H,16 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,21A7001GUS,4.58 pounds,,
+1749,1749.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 10 Pro,Lenovo,20XY002WUS,3 pounds,,
+769,769.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20Y70068US,3.73 pounds,,
+2199,2199.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA Quadro T1000,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YQ0031US,6.32 pounds,,
+899,1149.99,Intel 11th Generation Core i7,1165G7,12 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BH00DMUS,3.15 pounds,5,2
+999,999.99,Intel 11th Generation Core i5,1135G7,12 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BH00DNUS,3.15 pounds,4.5,4
+699,899.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BJ007UUS,4.19 pounds,5,1
+744,744.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,2560 x 1600,Windows 10 Pro,Lenovo,20V9006BUS,2.78 pounds,5,2
+809,809.99,AMD Ryzen 5 5000 Series,5600U,8 gigabytes,256 gigabytes,AMD Radeon R3,13.3 inches,2560 x 1600,Windows 10 Pro,Lenovo,20YA002HUS,2.78 pounds,3.7,3
+849,1089,AMD Ryzen 7 5000 Series,5700U,16 gigabytes,1000 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82ND006NUS,2.91 pounds,5,1
+1389,1389,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82BJ007RUS,4.19 pounds,,
+649,869,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,512 gigabytes,Other,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Lenovo,82ND006WUS,2.91 pounds,,
+1449,1449.99,AMD Ryzen 5 5000 Series,5650U,16 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,21A0001MUS,3.41 pounds,,
+1689,1689.99,AMD Ryzen 7 5000 Series,5850U,16 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,21A0003PUS,3.41 pounds,,
+1799,1799.99,Intel 11th Generation Core i5,11400H,8 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,21A9002VUS,4.58 pounds,,
+2449,2449.99,Intel 11th Generation Core i7,11850H,8 gigabytes,512 gigabytes,NVIDIA Quadro T1000,17.3 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YU001LUS,8.09 pounds,,
+779,779.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YG00A9US,3.75 pounds,,
+399,399.99,AMD Athlon Silver 3000 Series,Athlon Silver 3050e,4 gigabytes,128 gigabytes,AMD Radeon,11.6 inches,1920 x 1080 (Full HD),Windows 10 Home in S mode,Lenovo,82G4002MUS,2.65 pounds,,
+499,499.99,Intel 11th Generation Core i3,1115G4,8 gigabytes,256 gigabytes,Intel UHD Graphics,15.6 inches,1366 x 768 (HD),Windows 11 Home in S Mode,Lenovo,81X800KLUS,4.07 pounds,4.8,34
+139,139,Intel Celeron,N4020,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,11.6 inches,1366 x 768 (HD),Chrome OS,Lenovo,82BA001FUS,2.4200000000000004 pounds,,
+179,179,MediaTek,Mediatek MT8183,4 gigabytes,64 gigabytes,Other,11.6 inches,1366 x 768 (HD),Chrome OS,Lenovo,82KM0003US,2.64 pounds,,
+429,429,Intel Celeron,N4500,4 gigabytes,64 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Lenovo,82T3000DUS,4.18 pounds,,
+1759,1759.99,Intel 11th Generation Core i5,1145G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20W400K3US,4.02 pounds,,
+2349,2349.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA Quadro T1000,16 inches,2560 x 1600,Windows 10 Pro,Lenovo,20Y4S2NG00,3.99 pounds,,
+2129,2129.99,Intel 11th Generation Core i7,Intel Core i7-1185G7,16 gigabytes,512 gigabytes,NVIDIA Quadro T500,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20W600EHUS,3.86 pounds,,
+899,899.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20Y70039US,3.73 pounds,,
+959,959.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,256 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20Y7003AUS,3.73 pounds,,
+1029,1029.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,AMD Radeon,14 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20Y7003BUS,3.73 pounds,,
+789,789.99,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YG000EUS,3.75 pounds,,
+1059,1059.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,AMD Radeon,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,Lenovo,20YG0033US,3.75 pounds,,
+1699,1699.99,Intel 8th Generation Core i7,i7-8565U,16 gigabytes,512 gigabytes,,17 inches,2560 x 1600,Windows 10 Home,LG,GSFR 17Z990-R.AAS8U1,,,
+1999,1999.99,Intel 8th Generation Core i7,i7-8550U,16 gigabytes,1024 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,LG,GSFR 15Z980-R.AAS9U1,,,
+1099,1099.99,Intel 10th Generation Core i5,1035G7,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,LG,14Z90N-U.ARW5U1,2.2 pounds,4.1,16
+1999,1999.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,1024 gigabytes,Intel Iris Plus Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,LG,15Z90N-R.AAS9U1,2.5 pounds,4.9,19
+2099,2099.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,2000 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 11 Home,LG,17Z95N-G.AAS9U1,2.98 pounds,4.3,8
+1629,1699.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16Z90P-K.AAS8U1,2.6 pounds,4.4,11
+1615,1699.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16Z90P-K.AAB8U1,2.6 pounds,4.4,11
+1786,1999.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,2000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16T90P-K.ADS9U1,3.3 pounds,4.2,14
+1699,1699.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,LG,14T90P-K.AAG9U1,2.76 pounds,3.8,6
+1699,1699.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,LG,14T90P-K.AAB9U1,2.76 pounds,3.8,6
+1529,1799.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16T90P-K.AAB8U1,3.3 pounds,5,21
+1529,1799.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 11 Home,LG,17Z90P-K.AAB8U1,2.98 pounds,4.6,38
+679,799.99,AMD Ryzen 5 4000 Series,4500U,8 gigabytes,256 gigabytes,AMD Radeon,13 inches,1920 x 1080 (Full HD),Windows 11 Home,LG,13U70P-G.ARW5U1,2.2 pounds,4.2,5
+1199,1199.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1200 (WUXGA),Windows 11 Home,LG,14Z90P-K.AAW5U1,2.2 pounds,5,2
+1274,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650 Ti,17 inches,2560 x 1600,Windows 11 Home,LG,17U70P-P.AAS8U1,4.3 pounds,5,3
+1899,1899.99,Intel 11th Generation Core i7,1165G7,32 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,LG,15Z90P-P.ADB9U1,2.47 pounds,3.7,3
+1899,1899,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,2000 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 10 Home,LG,17Z90P-K.AAS9U1,2.98 pounds,4,2
+1949,1949.99,Intel 11th Generation Core i7 Evo Platform,1195G7,16 gigabytes,2000 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 11 Home,LG,17Z95P-K.AAS9U1,2.98 pounds,4.9,10
+1628,1849.99,Intel 11th Generation Core i7 Evo Platform,1195G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,17 inches,2560 x 1600,Windows 11 Home,LG,17Z95P-K.AAB8U1,2.98 pounds,4.9,12
+1899,1899.99,Intel 11th Generation Core i7,1195G7,32 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,LG,15Z95P-P.ADB9U1,2.47 pounds,5,3
+1749,1749.99,Intel 11th Generation Core i7 Evo Platform,1195G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16Z90P-K.AAS9U1,2.62 pounds,4.5,4
+1749,1749.99,Intel 11th Generation Core i7 Evo Platform,1195G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,16 inches,2560 x 1600,Windows 11 Home,LG,16Z90P-K.AAB9U1,2.62 pounds,4.2,5
+1199,1199.99,Intel 11th Generation Core i5 Evo Platform,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14 inches,1900 x 1200 (WUXGA),Windows 11 Home,LG,14Z90P-K.ARW5U1,2.2 pounds,4.5,2
+1099,1099.99,Intel 11th Generation Core i5,1155G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,LG,15Z95P-K.AAB6U1,2.47 pounds,4.9,7
+2799,2799,AMD Ryzen 7 Microsoft Surface Edition,3780U,32 gigabytes,1000 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,VFP-00001,3.4 pounds,4.9,12
+1444,1699.99,AMD Ryzen 5 Microsoft Surface Edition,3580UXX,16 gigabytes,256 gigabytes,AMD Radeon Vega 9,15 inches,2496 x 1664,Windows 10 Home,Microsoft,V9R-00022,3.4 pounds,4.6,60
+1999,1999.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,VGS-00001,2.76 pounds,4.5,80
+1104,1299.99,Intel 10th Generation Core i5,1035G7,8 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,V4C-00001,2.76 pounds,4.6,1454
+1274,1499.99,AMD Ryzen 5 Microsoft Surface Edition,3580UXX,8 gigabytes,256 gigabytes,AMD Radeon Vega 9,15 inches,2496 x 1664,Windows 10 Home,Microsoft,VGZ-00001,3.4 pounds,4.4,275
+1599,1599.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,VEF-00001,2.76 pounds,4.6,378
+2079,2099.99,AMD Ryzen 7 Microsoft Surface Edition,3780U,16 gigabytes,512 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,VFL-00001,3.4 pounds,4.4,63
+1699,1999.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,512 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,VGS-00022,2.89 pounds,4.5,80
+1599,1599.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,256 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,VEF-00064,2.89 pounds,4.6,378
+2039,2399.99,Intel 10th Generation Core i7,1065G7,16 gigabytes,1000 gigabytes,Intel Iris Plus Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,VGL-00001,2.89 pounds,4.7,18
+1444,1699.99,AMD Ryzen 5 Microsoft Surface Edition,3580UXX,16 gigabytes,256 gigabytes,AMD Radeon Vega 9,15 inches,2496 x 1664,Windows 10 Home,Microsoft,V9R-00001,3.4 pounds,4.6,60
+1784,2099.99,AMD Ryzen 7 Microsoft Surface Edition,3780U,16 gigabytes,512 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,VFL-00022,3.4 pounds,4.4,63
+999,999,Intel 8th Generation Core i5,Not provided,8 gigabytes,128 gigabytes,Intel UHD Graphics 620,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,GSRF LQL-00001,2.76 pounds,4,3
+1299,1299,Intel 8th Generation Core i5,Intel 8th Generation Core i5,8 gigabytes,256 gigabytes,,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,GSRF LQN-00038,,4.3,6
+1599,1599,Intel 8th Generation Core i7,Intel 8th Generation Core i7,8 gigabytes,256 gigabytes,Intel UHD Graphics 620,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,GSRF DAJ-00092,,,
+2999,2999.99,Intel 10th Generation Core i7,1065G7,32 gigabytes,1000 gigabytes,NVIDIA GeForce GTX 1660 Ti Max-Q,15 inches,3240 x 2160,Windows 10 Home,Microsoft,SMV-00001,4.2 pounds,4.5,27
+2699,2699.99,Intel 10th Generation Core i7,1065G7,32 gigabytes,1000 gigabytes,NVIDIA GeForce GTX 1650 Max-Q,13.5 inches,3000 x 2000,Windows 10 Home,Microsoft,SLS-00001,3.62 pounds,4.6,28
+1912,2499,Intel 8th Generation Core i7,8650U,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1050,13.5 inches,3000 x 2000,Windows 10 Pro,Microsoft,GSRF HNL-00001,3.62 pounds,,
+399,549.99,Intel 10th Generation Core i5,1035G1,4 gigabytes,64 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,1ZO-00001,2.45 pounds,4.3,339
+599,899.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THJ-00001,2.45 pounds,4.5,387
+599,899.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THJ-00035,2.45 pounds,4.5,387
+549,699.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,128 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THH-00001,2.45 pounds,4.6,2080
+549,699.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,128 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THH-00035,2.45 pounds,4.6,2080
+549,699.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,128 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THH-00024,2.45 pounds,4.6,2080
+599,899.99,Intel 10th Generation Core i5,1035G1,8 gigabytes,256 gigabytes,Intel UHD Graphics,12.4 inches,1536 x 1024,Windows 10 Home in S mode,Microsoft,THJ-00024,2.45 pounds,4.5,387
+2399,2399.99,Intel 11th Generation Core i7,1185G7,32 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5IV-00001,3.4 pounds,4.3,3
+999,999.99,AMD Ryzen 5 Microsoft Surface Edition,4680U,8 gigabytes,256 gigabytes,AMD Radeon Vega 9,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5PB-00001,2.79 pounds,4.5,123
+1299,1299.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5BT-00058,2.84 pounds,4.7,311
+1499,1499.99,AMD Ryzen 7 Microsoft Surface Edition,4980U,8 gigabytes,512 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5W6-00024,3.4 pounds,4.7,144
+1699,1699.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5EB-00058,2.84 pounds,4.6,125
+1049,1299.99,AMD Ryzen 7 Microsoft Surface Edition,4980U,8 gigabytes,256 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5UI-00001,3.4 pounds,4.6,112
+1699,1699.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5EB-00001,2.84 pounds,4.6,125
+1799,1799.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5IM-00024,3.4 pounds,4.6,74
+1299,1299.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5BT-00035,2.79 pounds,4.7,311
+1799,1799.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5IM-00001,3.4 pounds,4.6,74
+1699,1699.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5EB-00024,2.79 pounds,4.6,125
+2299,2299.99,Intel 11th Generation Core i7,1185G7,32 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5GB-00001,2.84 pounds,3.8,8
+1499,1499.99,AMD Ryzen 7 Microsoft Surface Edition,4980U,8 gigabytes,512 gigabytes,AMD Radeon RX Vega 11,15 inches,2496 x 1664,Windows 10 Home,Microsoft,5W6-00001,3.4 pounds,4.7,144
+1299,1299.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5BT-00024,2.79 pounds,4.7,311
+1699,1699.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5EB-00035,2.79 pounds,4.6,125
+1299,1299.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5BT-00001,2.84 pounds,4.7,311
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5AI-00058,2.84 pounds,4.5,14
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5AI-00047,2.79 pounds,4.5,14
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5AI-00024,2.79 pounds,4.5,14
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5AI-00001,2.84 pounds,4.5,14
+699,899.99,AMD Ryzen 5 Microsoft Surface Edition,4680U,8 gigabytes,128 gigabytes,AMD Radeon Vega 9,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,5M8-00001/5M8-00022,2.79 pounds,4.7,96
+1899,2099.99,Intel 11th Generation Core i7,11370H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3050 Ti,14.4 inches,2400 x 1600,Windows 11 Home,Microsoft,A1Y-00001,4 pounds,4.7,190
+2499,2699.99,Intel 11th Generation Core i7,11370H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050 Ti,14.4 inches,2400 x 1600,Windows 11 Home,Microsoft,ABY-00001,4 pounds,4.8,45
+1499,1799.99,Intel 11th Generation Core i5,H35 i5-11300H,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,14.4 inches,2400 x 1600,Windows 11 Home,Microsoft,9WI-00001,3.83 pounds,4.5,35
+1399,1599.99,Intel 11th Generation Core i5,H35 i5-11300H,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,14.4 inches,2400 x 1600,Windows 11 Home,Microsoft,THR-00001,3.83 pounds,4.7,96
+2899,3099.99,Intel 11th Generation Core i7,H35 i5-11370H,32 gigabytes,2000 gigabytes,NVIDIA GeForce RTX 3050 Ti,14.4 inches,2400 x 1600,Windows 11 Home,Microsoft,AI2-00001,4 pounds,4.4,24
+1199,1199.99,AMD Ryzen 5 Microsoft Surface Edition,4680U,16 gigabytes,256 gigabytes,AMD Radeon Vega 9,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,7IP-00051/7IP-00124,2.79 pounds,4.8,54
+1199,1199.99,AMD Ryzen 5 Microsoft Surface Edition,4680U,16 gigabytes,256 gigabytes,AMD Radeon Vega 9,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,7IP-00062/7IP-00135,2.79 pounds,4.8,54
+1199,1199.99,AMD Ryzen 5 Microsoft Surface Edition,4680U,16 gigabytes,256 gigabytes,AMD Radeon Vega 9,13.5 inches,2256 x 1504,Windows 10 Home,Microsoft,7IP-00026/7IP-00099,2.79 pounds,4.8,54
+1655,2299.99,Intel 9th Generation Core i7,i7-9750H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 2070 Max-Q,17.3 inches,1920 x 1080 (Full HD),Windows 10 Home,MSI,GSRF GS75 STEALTH-243,4.96 pounds,,
+1079,1199.99,Intel 11th Generation Core i7 Evo Platform,1185G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,14 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,Prestige14EVO012,2.84 pounds,4.4,68
+659,659.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,Modern15A004,3.53 pounds,4.4,67
+552,649.99,Intel 10th Generation Core i5,10210U,8 gigabytes,512 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,Modern15455,3.53 pounds,4.6,335
+549,549.99,Intel 10th Generation Core i5,10210U,8 gigabytes,512 gigabytes,Intel UHD Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,Modern15449,3.53 pounds,4.8,12
+899,899.99,Intel 10th Generation Core i7,10510U,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,Modern15450,3.53 pounds,4.1,13
+1599,1599.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1080 (Full HD),Windows 10,MSI,SUMMITE13022,4.35 pounds,4.7,3
+1599,1599.99,Intel 11th Generation Core i7,1185G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1080 (Full HD),Windows 10,MSI,SUMMITE13023,4.35 pounds,4.7,3
+899,899.99,Intel 11th Generation Core i7,i7-1165G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,MSI,MODERN14B494,2.62 pounds,,
+1851,1999.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,MSI,WF66267,4.63 pounds,,
+1499,1499.99,Intel 11th Generation Core i7,i7-11800H,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,MSI,WF66268,4.63 pounds,,
+1499,1499.99,Intel 11th Generation Core i5,1135G7,16 gigabytes,512 gigabytes,Other,13.4 inches,1920 x 1200 (WUXGA),Windows 10 Home,MSI,SUMMITE13095,2.98 pounds,,
+2799,2799.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3070,17.3 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,CREATOR1711239,5.4 pounds,,
+3499,3499.99,Intel 11th Generation Core i7,11800H,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3080,17.3 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,CREATOR1711238,5.4 pounds,,
+2209,2299.99,Intel 11th Generation Core i7,i7-1195G7,32 gigabytes,2000 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,SUMMITE16026,4.19 pounds,5,2
+1699,1699.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,SUMMITE16EVO021,4.19 pounds,,
+1851,1999.99,Intel 11th Generation Core i7,i7-1195G7,16 gigabytes,1000 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,SUMMITE16019,4.19 pounds,5,2
+1388,1499.99,Intel 11th Generation Core i5,1155G7,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,SUMMITE16EVO027,4.19 pounds,,
+1999,1999.99,Intel 11th Generation Core i7,11th Gen intel Core i7-1195G7,32 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3050,16 inches,2560 x 1600,Windows 10 Home,MSI,SUMMITE16015,4.19 pounds,4.6,8
+1799,1799.99,Intel 11th Generation Core i7,11800H,32 gigabytes,1000 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,CREATORM16670,4.97 pounds,3.7,3
+2349,2349.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3060,17.3 inches,3840 x 2160 (4K),Windows 10 Home,MSI,CREATOR1711471,5.4 pounds,3,1
+2999,2999.99,Intel 11th Generation Core i9,11900H,32 gigabytes,2000 gigabytes,NVIDIA GeForce RTX 3060,16 inches,2560 x 1600,Windows 10 Pro,MSI,CreatorZ16254,5.07 pounds,4.5,2
+849,849.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,MSI,MODERN15A654,3.53 pounds,,
+1483,1599.99,Intel 11th Generation Core i7,1195G7,16 gigabytes,512 gigabytes,Other,13.4 inches,1920 x 1200 (WUXGA),Windows 10 Home,MSI,SUMMITE13223,2.98 pounds,,
+1499,1499,Intel 11th Generation Core i5,1155G7,16 gigabytes,512 gigabytes,Other,13.4 inches,1920 x 1200 (WUXGA),Windows 10 Home,MSI,SUMMITE13235,2.98 pounds,,
+648,699,AMD Ryzen 5 5000 Series,5500U,8 gigabytes,256 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,MSI,MODERN14R053,2.87 pounds,5,1
+1483,1599,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,CREATORM16671,4.97 pounds,2.5,2
+2550,2749,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3070,17.3 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,CREATOR1711494,5.4 pounds,5,1
+1349,1349,Intel 11th Generation Core i5,1155G7,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,MSI,PRESTIGE15A048,3.64 pounds,,
+1499,1499,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 10 Pro,MSI,CREATORM16672,4.97 pounds,1,1
+1499,1499,Intel 11th Generation Core i7,1195G7,16 gigabytes,1000 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 10 Pro,MSI,PRESTIGE15A044,3.64 pounds,,
+2699,2699,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3080,15.6 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,CREATOR1511492,6.25 pounds,,
+743,799,Intel 11th Generation Core i5,i5-1155G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 10 Home,MSI,MODERN14B857,2.87 pounds,5,1
+1799,1799,Intel 11th Generation Core i7,i7-1195G7,32 gigabytes,1000 gigabytes,Other,15.6 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,PRESTIGE15A045,3.64 pounds,,
+2699,2699.99,Intel 11th Generation Core i7,11800H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3080,15.6 inches,3840 x 2160 (4K),Windows 10 Pro,MSI,CREATOR1511631,4.62 pounds,,
+749,749.99,AMD Ryzen 7 5000 Series,5700U,8 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,MODERN15R221,3.53 pounds,5,1
+1249,1249.99,Intel 11th Generation Core i7,i7-11800H,8 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,CROSSHAIR151099,4.63 pounds,,
+1599,1599.99,Intel 11th Generation Core i7,i7-11800H,16 gigabytes,512 gigabytes,Other,17.3 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,WF76647,5.73 pounds,,
+1399,1399.99,Intel 11th Generation Core i7,i7-11800H,16 gigabytes,512 gigabytes,Other,17.3 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,CROSSHAIR17645,5.07 pounds,,
+2978,2999.99,Intel 12th Generation Core i7,i7-12700H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3070 Ti,16 inches,2560 x 1600,Windows 11 Pro,MSI,CREATORZ16P042,5.4 pounds,,
+799,799.99,Intel 11th Generation Core i5,1155G7,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,MODERN14B1024,2.87 pounds,,
+1149,1149.99,Intel 12th Generation Core i5,i5-1240P,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE14EVO12013,3.6 pounds,,
+1899,1899.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 11 Pro,MSI,SUME1612008,4.63 pounds,,
+2389,2549.99,Intel 11th Generation Core i7,11800H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 3060,16 inches,2560 x 1600,Windows 10 Pro,MSI,CreatorZ16046,5.07 pounds,,
+1199,1199.99,Intel 12th Generation Core i5,i5-1240P,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE14EVO12012,3.6 pounds,,
+3899,3899.99,Intel 12th Generation Core i7,i7-12700H,32 gigabytes,1000 gigabytes,Other,16 inches,2560 x 1600,Windows 11 Pro,MSI,CREATORZ16P040,5.4 pounds,,
+2099,2099.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,1000 gigabytes,Other,16 inches,2560 x 1600,Windows 11 Pro,MSI,SUME1612007,4.63 pounds,,
+2529,2699.99,Intel 11th Generation Core i9,11900H,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3060,16 inches,2560 x 1600,Windows 10 Pro,MSI,CreatorZ16045,5.07 pounds,,
+1299,1299.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE14EVO12011,3.6 pounds,,
+1549,1549.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 11 Pro,MSI,SUME1612009,4.63 pounds,3,3
+1499,1499.99,Intel 12th Generation Core i7,i7-12700H,16 gigabytes,512 gigabytes,Other,16 inches,2560 x 1600,Windows 11 Pro,MSI,CREATORM1612266,4.98 pounds,,
+1399,1399,Intel 12th Generation Core i5,i5-1240P,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650,15.6 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE1512011,5.52 pounds,,
+1599,1599.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,13.4 inches,1920 x 1200 (WUXGA),Windows 11 Pro,MSI,SUME1312002,3.75 pounds,,
+1699,1699.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,15.6 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE1512005,5.52 pounds,,
+1499,1499.99,Intel 12th Generation Core i5,i5-1240P,16 gigabytes,512 gigabytes,Other,13.4 inches,1920 x 1200 (WUXGA),Windows 11 Pro,MSI,SUME1312003,3.74 pounds,,
+1449,1449.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE1412007,4.64 pounds,1,1
+1349,1349.99,Intel 12th Generation Core i5,i5-1240P,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE1412008,4.64 pounds,,
+1549,1549.99,Intel 12th Generation Core i7,i7-1260P,16 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Pro,MSI,PRE1412006,4.64 pounds,,
+799,799.99,Intel 12th Generation Core i5,i5-1235U,8 gigabytes,512 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,MSI,MOD1412032,3.09 pounds,,
+1599,1599.99,Intel 9th Generation Core i7,i7-9750H,16 gigabytes,1128 gigabytes,NVIDIA GeForce GTX 1660 Ti,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,GSRF RZ09-03009E76-R3U1,4.63 pounds,,
+1999,1999.99,Intel 10th Generation Core i7,i7-1065G7,16 gigabytes,512 gigabytes,,13.3 inches,3840 x 2160 (4K),Windows 10 Home,Razer,GSRF RZ09-03101E52-R3U1,,,
+3699,3699.99,Intel 9th Generation Core i7,i7-9750H,16 gigabytes,512 gigabytes,,17.3 inches,3840 x 2160 (4K),Windows 10 Home,Razer,GSRF RZ09-03148E13-R3U1,,,
+2399,2399.99,Intel 9th Generation Core i7,9750H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 2070 Max-Q,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,GSRF RZ09-03017EM8-R3U1,4.74 pounds,1,1
+2699,2699.99,Intel 9th Generation Core i7,i7-9750H,16 gigabytes,512 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,GSRF RZ09-03137E02-R3U1,,,
+3869,4299.99,Intel 10th Generation Core i7,i7-10875H,32 gigabytes,1000 gigabytes,,15.6 inches,3840 x 2160 (4K),Windows 10 Pro,Razer,GSRF RZ09-0330QEM3-R3U1,,,
+1599,2599.99,Intel 9th Generation Core i7,9750H,16 gigabytes,512 gigabytes,NVIDIA GeForce RTX 2070 Max-Q,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,GSRF RZ09-03017EM2-R3U1,4.74 pounds,,
+1619,1799.99,Intel 8th Generation Core i7,8750H,16 gigabytes,2256 gigabytes,,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,RZ09-02705E75-R3U1,,,
+1299,1799.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,NVIDIA GeForce GTX 1650 Ti Max-Q,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Razer,GSRF RZ09-03272E12-R3U1,3.13 pounds,,
+1599,1599.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1200 (WUXGA),Windows 10 Home,Razer,RZ09-03571EM1-R3U1,3.09 pounds,3.9,18
+1942,1999.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,3840 x 2400,Windows 10 Home,Razer,RZ09-03571EM2-R3U1,3.09 pounds,5,1
+2199,2199.99,AMD Ryzen 9 5000 Series,5900HX,16 gigabytes,1000 gigabytes,NVIDIA GeForce RTX 3070,14 inches,2560 x 1440 (QHD),Windows 10 Home,Razer,RZ09-0370BEA3-R3U1,3.92 pounds,4.6,65
+1651,1699.99,Intel 11th Generation Core i7 Evo Platform,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1200 (WUXGA),Windows 10,Razer,RZ09-03571E92-R3U1,3.09 pounds,,
+1799,1799.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,13.4 inches,3840 x 2560 (UHD),Windows 11 Home,Razer,RZ09-0357MEM3-R3U1,3.09 pounds,,
+1799,1799.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,13.4 inches,3840 x 2560 (UHD),Windows 11 Home,Razer,RZ09-0357MEQ3-R3U1,3.09 pounds,3,2
+1473,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1080 (Full HD),Windows 11 Home,Razer,RZ09-0357MEM2-R3U1,3.09 pounds,5,2
+1499,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.4 inches,1920 x 1080 (Full HD),Windows 11 Home,Razer,RZ09-0357MEQ2-R3U1,3.09 pounds,4,2
+299,299,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE350XBA-K01US,3.75 pounds,4.4,1581
+229,229,Intel Celeron,N3060,4 gigabytes,32 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Samsung,GSRF-XE501C13-K02US,,,
+189,189,Intel Celeron,N3060,2 gigabytes,16 gigabytes,,11.6 inches,1366 x 768 (HD),Chrome OS,Samsung,GSRF-XE501C13-K01US,,3,2
+999,999,Intel 10th Generation Core i5,10210U,8 gigabytes,256 gigabytes,Intel UHD Graphics,13.3 inches,3840 x 2160 (4K),Chrome OS,Samsung,XE930QCA-K01US,2.29 pounds,4.1,929
+999,999,Intel 10th Generation Core i5,10210U,8 gigabytes,256 gigabytes,Intel UHD Graphics,13.3 inches,3840 x 2160 (4K),Chrome OS,Samsung,XE930QCA-K02US,2.29 pounds,4.1,929
+349,349,Intel Celeron,N4000,4 gigabytes,128 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE350XBA-K05US,3.75 pounds,4.3,740
+949,949.99,Intel 10th Generation Core i5,L16G7,8 gigabytes,256 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP767XCM-K01US,2.09 pounds,4.4,10
+269,299,Intel Celeron,N4000,4 gigabytes,32 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,GSRF XE350XBA-K01US,3.75 pounds,5,2
+549,699,Intel 10th Generation Core i3,10110U,8 gigabytes,128 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE530QDA-KA1US,2.71 pounds,4.5,388
+549,699,Intel 10th Generation Core i3,10110U,8 gigabytes,128 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE530QDA-KB1US,2.71 pounds,4.5,388
+399,549,Intel Celeron,5205U,4 gigabytes,64 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE530QDA-KA2US,2.71 pounds,4.6,87
+399,549,Intel Celeron,5205U,4 gigabytes,64 gigabytes,Intel UHD Graphics,13.3 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE530QDA-KB2US,2.71 pounds,4.6,87
+769,949.99,Intel 8th Generation Core i5,i5-8250U,8 gigabytes,512 gigabytes,Intel UHD Graphics 620,13.3 inches,1920 x 1080 (Full HD),Windows 10 Home,Samsung,GSRF NP730QAA-K02US,,,
+1012,1249.99,Intel 8th Generation Core i7,i7-8550U,16 gigabytes,256 gigabytes,Other,15 inches,1920 x 1080 (Full HD),Windows 10 Home,Samsung,GSRF NP-940X5N-X01US,,1,1
+849,849.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QDA-KB1US/NP730QDA-KB3US,2.62 pounds,4.7,817
+1499,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QDB-KA1US/NP950QDB-KA3US,3.06 pounds,4.5,1155
+1049,1049.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QDA-KA1US/NP730QDA-KA3US,2.62 pounds,4.6,976
+1399,1399.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QDB-KE1US/NP930QDB-KE4US,2.34 pounds,4.5,245
+1499,1499.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QDB-KB1US/NP950QDB-KB3US,3.06 pounds,4.5,1155
+1099,1099.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XDB-KB2US/NP950XDB-KC4US,2.31 pounds,4.8,12
+1199,1199.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XDB-KD1US/NP930XDB-KF3US,3.34 pounds,3.5,4
+349,349.99,Qualcomm Snapdragon,7C,4 gigabytes,128 gigabytes,Other,14 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP340XLA-KA1US,3.04 pounds,4.1,302
+1299,1299.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QDB-KA2US,3.06 pounds,,
+1209,1299.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XDB-KA1US,2.36 pounds,,
+999,999.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XDB-KE2US,1.92 pounds,,
+1199,1199.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QDB-KD2US,2.34 pounds,,
+1199,1199.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QDB-KE2US,2.34 pounds,,
+1199,1199.99,Intel 11th Generation Core i7,1165G7,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XDB-KE1US,1.92 pounds,,
+1399,1399.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QDB-KD1US,2.34 pounds,,
+999,999.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XDB-KD2US,1.96 pounds,,
+749,749.99,Intel 11th Generation Core i5,1135G7,8 gigabytes,256 gigabytes,Intel Iris Xe MAX,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP750TDA-XD1US,3.51 pounds,4.6,115
+799,999.99,Intel 11th Generation Core i7,1165G7,16 gigabytes,512 gigabytes,Intel Iris Xe MAX,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP750TDA-XD2US,3.51 pounds,4.3,94
+1399,1599.99,Intel 11th Generation Core i7,1160G7,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP935QDC-KE2US,2.43 pounds,4.3,3
+1249,1399.99,Intel 11th Generation Core i5,1130G7,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP935QDC-KE1US,2.43 pounds,,
+999,1199.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1240P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XED-KA2US,2.45 pounds,,
+899,1099.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1240P Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XED-KF2US,1.92 pounds,,
+1099,1299.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XED-KF1US,1.92 pounds,,
+1099,1299.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XED-KA1US,1.92 pounds,,
+1399,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KB2US,3.06 pounds,,
+1499,1499.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KB1US,2.29 pounds,,
+1499,1499.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KC1US,2.29 pounds,,
+1149,1149.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1255U Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QED-KB1US,2.62 pounds,4.7,7
+1199,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XED-KF1US,2.45 pounds,,
+1299,1299.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KB2US,2.29 pounds,,
+929,929.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1235U Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QED-KA2US,2.62 pounds,,
+1399,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KC2US,3.06 pounds,,
+1499,1499.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KA1US,2.29 pounds,,
+899,1099.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1240P Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930XED-KA2US,1.92 pounds,,
+929,929.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1235U Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QED-KB2US,2.62 pounds,,
+1199,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XED-KA1US,2.45 pounds,,
+1399,1399.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KA2US,3.06 pounds,,
+1599,1599.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KC1US,3.06 pounds,5,2
+1599,1599.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KB1US,3.06 pounds,4.8,12
+1149,1149.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1255U Processor,16 gigabytes,512 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP730QED-KA1US,2.62 pounds,3.5,2
+1299,1299.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KC2US,2.36 pounds,,
+999,1199.99,Intel 12th Generation Core i5 Evo Platform,Intel® Core™ i5-1240P Processor,8 gigabytes,512 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950XED-KF2US,2.52 pounds,,
+1299,1299.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,8 gigabytes,256 gigabytes,Intel Iris Xe Graphics,13.3 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP930QED-KA2US,2.29 pounds,,
+1599,1599.99,Intel 12th Generation Core i7 Evo Platform,Intel® Core™ i7-1260P Processor,16 gigabytes,1000 gigabytes,Intel Iris Xe Graphics,15.6 inches,1920 x 1080 (Full HD),Windows 11 Home,Samsung,NP950QED-KA1US,3.06 pounds,,
+449,449,Intel Celeron,Intel® Celeron® Processor N4500,4 gigabytes,128 gigabytes,Intel UHD Graphics,12.4 inches,2560 x 1600,Chrome OS,Samsung,XE520QEA-KB1US,2.82 pounds,5,1
+299,299,Intel Celeron,N4000,4 gigabytes,64 gigabytes,Intel UHD Graphics 600,15.6 inches,1920 x 1080 (Full HD),Chrome OS,Samsung,XE350XBA-K02US,3.75 pounds,,
+199,199.99,Intel Atom,Z8350,2 gigabytes,32 gigabytes,Intel HD Graphics 400,10.1 inches,1280 x 800 (WXGA),Windows 10,Super Sonic,SC1031W,4.25 pounds,3,2
+219,219.99,Intel Celeron,N3350,4 gigabytes,64 gigabytes,Intel HD Graphics 500,14.1 inches,1366 x 768 (HD),Windows 10 Home,Thomson,WWX14C4Pk64-P,2.54 pounds,1.9,10
+149,149.99,Intel Atom,Z8350,4 gigabytes,64 gigabytes,Intel HD Graphics 400,10.1 inches,1024 x 600 (WSVGA),Windows 10 Home,Thomson,WWNEO10A4BK64-P,2.54 pounds,2.3,6
+349,349.99,Intel 5th Generation Core i5,5257U,4 gigabytes,256.0 gigabytes,Intel Iris Graphics 6100,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Thomson,WWNEO15i54BK256,3.96 pounds,,
+219,219.99,Intel Celeron,N3350,4 gigabytes,64 gigabytes,Intel HD Graphics 500,14.1 inches,1366 x 768 (HD),Windows 10 Home,Thomson,WWX14C4BL64-P,2.54 pounds,1.9,10
+149,149.99,Intel Atom,Z8350,4 gigabytes,64 gigabytes,Intel HD Graphics 400,10.1 inches,1024 x 600 (WSVGA),Windows 10 Home,Thomson,WWNEO10A4WH64-P,2.54 pounds,2.3,6
+399,399.99,Intel 5th Generation Core i5,5257U,8 gigabytes,1000 gigabytes,Intel Iris Graphics 6100,15.6 inches,1920 x 1080 (Full HD),Windows 10 Home,Thomson,WWN15I5-8BK1T,3.96 pounds,3,20
+199,199.99,Intel Atom,Not provided,4 gigabytes,1000 gigabytes,Intel HD Graphics 400,14.1 inches,1366 x 768 (HD),Windows 10 Home in S mode,Thomson,WWNEO14A4BK64-P,3.92 pounds,2.3,10
+199,199.99,Intel Atom,Not provided,4 gigabytes,64 gigabytes,Intel HD Graphics 400,14.1 inches,1366 x 768 (HD),Windows 10 Home in S mode,Thomson,WWNEO14A4WH64-P,3.92 pounds,2.3,10
+199,199.99,Intel Atom,Not provided,4 gigabytes,64 gigabytes,Intel HD Graphics 400,14.1 inches,1366 x 768 (HD),Windows 10 Home in S mode,Thomson,WWNEO14A4PK64-P,3.92 pounds,2.3,10
